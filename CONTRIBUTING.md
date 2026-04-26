@@ -92,12 +92,20 @@ Alternatively, open an [issue](https://github.com/Haustorium12/the-24k-vault/iss
 
 ## Maintenance Cadence
 
-The maintainers run a quarterly audit:
+The maintainers run a quarterly audit, partially automated by [`tools/curation_audit.py`](tools/curation_audit.py):
 
-- Check every entry: archived/deprecated status and last commit date.
-- Remove entries with last commit older than 12 months.
-- Verify each plugin still appears in `community-plugins.json` (not removed by the Obsidian team).
-- Refresh download counts in the Essential Plugins section.
-- Scan the `obsidianmd/obsidian-releases` PR queue for breakout new plugins.
+**Automated (run the script):**
+- **Sync** -- regenerates `directory/plugins.md` and `directory/themes.md` from `obsidianmd/obsidian-releases` upstream JSON, refreshing download counts and entry text.
+- **Audit** -- verifies every GitHub repo referenced in `README.md`, `CONTRIBUTING.md`, and `FEATURED.md` still exists, is not archived, and is on its canonical URL. Writes `tools/audit-YYYY-MM-DD.md` with findings.
+
+Run `python tools/curation_audit.py` for both, or use `sync` or `audit` as the first argument to do just one.
+
+**Manual review (judgment calls the script can't make):**
+- Resolve any stale URLs the audit surfaces (transferred or renamed repos).
+- Decide what to do with archived entries: remove, replace with an active fork, or grant a `[24K Stable]` tag if it still works.
+- Re-verify existing `[24K Stable]` entries against the four criteria.
+- Refresh download counts in the curated Essential Plugins section.
+- Scan the `obsidianmd/obsidian-releases` PR queue for breakout new plugins worth promoting from `directory/` to the curated README.
+- Pick next month's `24K Featured` plugin, update the Featured section, archive the previous pick to `FEATURED.md`.
 
 Sources for the audit: [obsidianstats.com](https://www.obsidianstats.com) and [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases).

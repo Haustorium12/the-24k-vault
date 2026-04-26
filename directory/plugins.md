@@ -2902,4 +2902,4 @@
 
 ---
 
-*Index generated 2026-04-25. 2,750 plugins from `obsidianmd/obsidian-releases`. Re-sync via `tools/curation_audit.py` (Chunk 8).*
+*Index generated 2026-04-25. 2,750 plugins from `obsidianmd/obsidian-releases`. Re-sync via `tools/curation_audit.py`.*

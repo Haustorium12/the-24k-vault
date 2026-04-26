@@ -567,4 +567,4 @@
 
 ---
 
-*Index generated 2026-04-25. 415 themes from `obsidianmd/obsidian-releases`. Re-sync via `tools/curation_audit.py` (Chunk 8).*
+*Index generated 2026-04-25. 415 themes from `obsidianmd/obsidian-releases`. Re-sync via `tools/curation_audit.py`.*

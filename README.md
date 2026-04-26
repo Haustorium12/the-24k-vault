@@ -60,6 +60,7 @@ For anyone who keeps research papers or reference material in their vault, this 
 - [Resources](#resources)
 - [Workflows & Methodologies](#workflows--methodologies)
 - [Plugin Development](#plugin-development)
+- [Need More?](#need-more)
 - [Contributing](#contributing)
 
 ---
@@ -407,6 +408,22 @@ Resources for building plugins and themes.
 - [Developer Docs](https://docs.obsidian.md) — Full API reference and plugin lifecycle documentation.
 - [Developers & API Forum](https://forum.obsidian.md/c/developers-api/16) — Community support for plugin authors.
 - [Submit Your Plugin](https://docs.obsidian.md/Plugins/Releasing/Submit+your+plugin) — Official submission requirements and review process.
+
+---
+
+## Need More?
+
+The README is the curated magazine -- handpicked entries with our notes and tags. The [`directory/`](directory/) folder is the exhaustive reference, with everything we know about across the Obsidian ecosystem.
+
+- [Plugin Directory](directory/plugins.md) -- all 2,750 plugins from the official registry, alphabetical with downloads.
+- [Theme Directory](directory/themes.md) -- all 415 themes, alphabetical with mode info.
+- [YouTube Channels](directory/youtube.md) -- Obsidian creators we track.
+- [Blogs & Newsletters](directory/blogs.md) -- active writers in the PKM space.
+- [Communities](directory/communities.md) -- Discord servers, forums, subreddits.
+- [Tools & Integrations](directory/tools.md) -- standalone software that pairs with Obsidian.
+- [Starter Vaults](directory/vaults.md) -- public vaults to fork or learn from.
+
+The directory is regenerated and audited quarterly via [`tools/curation_audit.py`](tools/curation_audit.py).
 
 ---
 
