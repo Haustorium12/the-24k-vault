@@ -48,6 +48,13 @@ For anyone who keeps research papers or reference material in their vault, this 
 - [Visualization Plugins](#visualization-plugins)
 - [Developer & Technical Plugins](#developer--technical-plugins)
 - [Sync & Backup Plugins](#sync--backup-plugins)
+- [PDF & Annotation Plugins](#pdf--annotation-plugins)
+- [Export & Publishing Plugins](#export--publishing-plugins)
+- [Spaced Repetition Plugins](#spaced-repetition-plugins)
+- [Math & Science Plugins](#math--science-plugins)
+- [TTRPG & Gaming Plugins](#ttrpg--gaming-plugins)
+- [Reading & Library Plugins](#reading--library-plugins)
+- [Audio & Voice Plugins](#audio--voice-plugins)
 - [Themes](#themes)
 - [Tools & Integrations](#tools--integrations)
 - [Resources](#resources)
@@ -208,6 +215,93 @@ For keeping the vault safe and synchronized across devices.
 |--------|-----------|--------|-------------|
 | Remotely Save | 1.84M | [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) | **[24K Stable · 2026-04]** Sync to S3, Dropbox, OneDrive, Google Drive, or WebDAV with E2E encryption. |
 | Self-hosted LiveSync | — | [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) | CouchDB-based private sync with conflict resolution. |
+
+---
+
+## PDF & Annotation Plugins
+
+Read, mark up, and link PDFs and EPUBs without leaving the vault.
+
+| Plugin | Downloads | GitHub | Description |
+|--------|-----------|--------|-------------|
+| Annotator | 564K | [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) | Annotate PDFs and EPUB files inline with highlights, comments, and backlinks. |
+| PDF++ | 528K | [RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus) | Native-feeling PDF annotation with highlights, comments, page-level backlinks, and side-by-side editing. |
+| Markmind | 528K | [MarkMindCkm/obsidian-markmind](https://github.com/MarkMindCkm/obsidian-markmind) | **[Closed Source]** Mind map, outline, and PDF annotation in a single tool. |
+
+---
+
+## Export & Publishing Plugins
+
+Get notes out of the vault in formats other people can read.
+
+| Plugin | Downloads | GitHub | Description |
+|--------|-----------|--------|-------------|
+| Pandoc | 501K | [OliverBalfour/obsidian-pandoc](https://github.com/OliverBalfour/obsidian-pandoc) | Export notes to DOCX, ePub, PDF, and any format Pandoc supports via shell integration. |
+| Enhancing Export | 397K | [mokeyish/obsidian-enhancing-export](https://github.com/mokeyish/obsidian-enhancing-export) | Pandoc-based export with templates and a configuration UI. |
+| Better Export PDF | 242K | [l1xnan/obsidian-better-export-pdf](https://github.com/l1xnan/obsidian-better-export-pdf) | PDF export with bookmark outlines, headers and footers, and live preview. |
+
+---
+
+## Spaced Repetition Plugins
+
+Flashcards, review schedules, and Anki integration for long-term retention.
+
+| Plugin | Downloads | GitHub | Description |
+|--------|-----------|--------|-------------|
+| Spaced Repetition | 483K | [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) | Review flashcards and full notes using SM-2 spaced repetition without leaving the vault. |
+| Export to Anki | 127K | [ObsidianToAnki/Obsidian_to_Anki](https://github.com/ObsidianToAnki/Obsidian_to_Anki) | Bulk-export notes to Anki with custom card formats and tag mapping. |
+| Flashcards | 66K | [reuseman/flashcards-obsidian](https://github.com/reuseman/flashcards-obsidian) | Lightweight Anki integration with inline card definitions. |
+
+---
+
+## Math & Science Plugins
+
+LaTeX, equations, diagrams, and structured scientific notation.
+
+| Plugin | Downloads | GitHub | Description |
+|--------|-----------|--------|-------------|
+| Latex Suite | 451K | [artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite) | Snippet-based LaTeX entry that approaches handwriting speed. |
+| Mermaid Tools | 269K | [dartungar/obsidian-mermaid](https://github.com/dartungar/obsidian-mermaid) | Visual toolbar for Mermaid.js diagrams with common element shortcuts. |
+| Quick LaTeX | 202K | [joeyuping/quick_latex_obsidian](https://github.com/joeyuping/quick_latex_obsidian) | Speed up LaTeX math typing with auto-completion and shortcut commands. |
+
+---
+
+## TTRPG & Gaming Plugins
+
+Tabletop RPG infrastructure built on top of Obsidian. The Obsidian-TTRPG-Community organization maintains most of the canonical tools.
+
+| Plugin | Downloads | GitHub | Description |
+|--------|-----------|--------|-------------|
+| Fantasy Statblocks | 291K | [Obsidian-TTRPG-Community/fantasy-statblocks](https://github.com/Obsidian-TTRPG-Community/fantasy-statblocks) | Create, manage, and view D&D-style statblocks for any game system. |
+| Leaflet | 277K | [javalent/obsidian-leaflet](https://github.com/javalent/obsidian-leaflet) | Interactive maps inside notes with markers, layers, and custom imagery. |
+| Dice Roller | 264K | [Obsidian-TTRPG-Community/dice-roller](https://github.com/Obsidian-TTRPG-Community/dice-roller) | Inline dice rolls with full TTRPG dice notation support. |
+| Initiative Tracker | 146K | [Obsidian-TTRPG-Community/initiative-tracker](https://github.com/Obsidian-TTRPG-Community/initiative-tracker) | Combat initiative tracking with HP, conditions, and statblock integration. |
+| Iron Vault | 15K | [iron-vault-plugin/iron-vault](https://github.com/iron-vault-plugin/iron-vault) | Full VTT and gameplay plugin for the Ironsworn/Starforged family of games. |
+
+---
+
+## Reading & Library Plugins
+
+Manage reading lists, citations, and book metadata.
+
+| Plugin | Downloads | GitHub | Description |
+|--------|-----------|--------|-------------|
+| Citations | 219K | [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) | Search and insert citations from a Zotero library directly in notes. |
+| Book Search | 210K | [anpigon/obsidian-book-search-plugin](https://github.com/anpigon/obsidian-book-search-plugin) | Create book notes with metadata from Google Books and other providers. |
+
+---
+
+## Audio & Voice Plugins
+
+Speech-to-text, text-to-speech, recording, and audio file integration.
+
+| Plugin | Downloads | GitHub | Description |
+|--------|-----------|--------|-------------|
+| Media Extended | 317K | [aidenlx/media-extended](https://github.com/aidenlx/media-extended) | Embed and timestamp audio and video directly in notes with playback controls. |
+| Whisper | 43K | [nikdanilov/whisper-obsidian-plugin](https://github.com/nikdanilov/whisper-obsidian-plugin) | Speech-to-text transcription using OpenAI Whisper. |
+| Text to Speech | 40K | [joethei/obsidian-tts](https://github.com/joethei/obsidian-tts) | Read notes aloud using the system TTS engine. |
+| Transcription | 30K | [djmango/obsidian-transcription](https://github.com/djmango/obsidian-transcription) | High-quality transcription via Whisper for audio files linked from notes. |
+| Edge TTS | 25K | [travisvn/obsidian-edge-tts](https://github.com/travisvn/obsidian-edge-tts) | Read notes aloud using Microsoft Edge's TTS API (free, high-quality voices). |
 
 ---
 
