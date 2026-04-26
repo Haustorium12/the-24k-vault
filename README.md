@@ -225,8 +225,8 @@ Read, mark up, and link PDFs and EPUBs without leaving the vault.
 | Plugin | Downloads | GitHub | Description |
 |--------|-----------|--------|-------------|
 | Annotator | 564K | [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) | Annotate PDFs and EPUB files inline with highlights, comments, and backlinks. |
-| PDF++ | 528K | [RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus) | Native-feeling PDF annotation with highlights, comments, page-level backlinks, and side-by-side editing. |
-| Markmind | 528K | [MarkMindCkm/obsidian-markmind](https://github.com/MarkMindCkm/obsidian-markmind) | [![Closed Source](https://img.shields.io/badge/Closed_Source-9C9C9C?style=flat-square)](CONTRIBUTING.md#closed-source-tag) Mind map, outline, and PDF annotation in a single tool. |
+| PDF++ | 528K | [RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus) | [![Featured 2026-04](https://img.shields.io/badge/Featured-2026--04-C0C0C0?style=plastic)](FEATURED.md) Native-feeling PDF annotation with highlights, comments, page-level backlinks, and side-by-side editing. |
+| Markmind | 528K | [MarkMindCkm/obsidian-markmind](https://github.com/MarkMindCkm/obsidian-markmind) | [![Closed Source](https://img.shields.io/badge/Closed_Source-CD7F32?style=plastic)](CONTRIBUTING.md#closed-source-tag) Mind map, outline, and PDF annotation in a single tool. |
 
 ---
 

@@ -78,6 +78,8 @@ Selection criteria, in roughly this order:
 
 Past picks are archived in [FEATURED.md](FEATURED.md) with the original write-up and the month featured. The Featured section is editorial: a Featured pick is not a substitute for the curated category lists, and a plugin can earn a Featured slot whether or not it appears elsewhere in the README.
 
+When a Featured pick also appears in a curated category table, its row gets a silver `Featured · YYYY-MM` badge to mark the editorial history. The badges form a three-metal hierarchy: gold for Stable, silver for Featured, bronze for Closed Source.
+
 ## How to Submit
 
 1. Open a Pull Request titled `Add [Name]`.
