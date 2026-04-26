@@ -71,7 +71,7 @@ For anyone who keeps research papers or reference material in their vault, this 
 1. **[Templater](https://github.com/SilentVoid13/Templater)** — automation engine for templates with variables, JS execution, and prompts.
 2. **[Dataview](https://github.com/blacksmithgu/obsidian-dataview)** — query your vault like a database. Dashboards, MOCs, automated lists.
 3. **[Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks)** — unified task management across the whole vault.
-4. **[Calendar](https://github.com/liamcain/obsidian-calendar-plugin)** — **[24K Stable · 2026-04]** month-view sidebar for daily and weekly note navigation.
+4. **[Calendar](https://github.com/liamcain/obsidian-calendar-plugin)** — [![24K Stable 2026-04](https://img.shields.io/badge/24K_Stable-2026--04-D4AF37?style=plastic)](CONTRIBUTING.md#stable-tier-24k-verified) month-view sidebar for daily and weekly note navigation.
 5. **[Obsidian Web Clipper](https://obsidian.md/clipper)** — official browser extension for capturing web content into your vault.
 
 For AI-assisted workflows, add **[Copilot](https://github.com/logancyang/obsidian-copilot)** or **[Smart Connections](https://github.com/brianpetro/obsidian-smart-connections)** once the basics are in place.
@@ -89,7 +89,7 @@ The foundation. If a vault has more than ten plugins, most of these are in it.
 | Dataview | 4.02M | [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) | SQL-like queries over the vault for dashboards, MOCs, and automated lists. |
 | Tasks | 3.34M | [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) | Cross-vault task management with due dates, recurrence, and smart filtering. |
 | Advanced Tables | 2.73M | [tgrosinger/advanced-tables-obsidian](https://github.com/tgrosinger/advanced-tables-obsidian) | Spreadsheet-like markdown tables with formulas, sorting, and CSV export. |
-| Calendar | 2.56M | [liamcain/obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin) | **[24K Stable · 2026-04]** Month-view sidebar navigator for daily and weekly notes. |
+| Calendar | 2.56M | [liamcain/obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin) | [![24K Stable 2026-04](https://img.shields.io/badge/24K_Stable-2026--04-D4AF37?style=plastic)](CONTRIBUTING.md#stable-tier-24k-verified) Month-view sidebar navigator for daily and weekly notes. |
 | Git | 2.44M | [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) | Automated commits, sync, diff view, and full Git integration. |
 | Style Settings | 2.25M | [obsidian-community/obsidian-style-settings](https://github.com/obsidian-community/obsidian-style-settings) | Centralized CSS customization for themes and plugins. |
 | Kanban | 2.23M | [obsidian-community/obsidian-kanban](https://github.com/obsidian-community/obsidian-kanban) | Markdown-based Kanban boards with drag-and-drop. |
@@ -126,7 +126,7 @@ The connective tissue of a vault. Tools for organizing, surfacing, and refactori
 | Find Orphaned Files | 205K | [Vinzent03/find-unlinked-files](https://github.com/Vinzent03/find-unlinked-files) | Surface files that no other note links to and broken links across the vault. |
 | Strange New Worlds | — | [TfTHacker/obsidian42-strange-new-worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) | Counts how many notes reference a link — makes connections visible inline. |
 | Breadcrumbs | — | [SkepticMystic/breadcrumbs](https://github.com/SkepticMystic/breadcrumbs) | Hierarchical note relationships with parent/child/sibling navigation. |
-| Note Refactor | — | [lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) | **[24K Stable · 2026-04]** Extract note content into new notes and split long notes cleanly. |
+| Note Refactor | — | [lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) | [![24K Stable 2026-04](https://img.shields.io/badge/24K_Stable-2026--04-D4AF37?style=plastic)](CONTRIBUTING.md#stable-tier-24k-verified) Extract note content into new notes and split long notes cleanly. |
 
 ---
 
@@ -162,7 +162,7 @@ Project management primitives — tasks, boards, recurring notes.
 | Tracker | 330K | [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) | Chart numerical or text data extracted from notes (line, bar, pie, heatmap). |
 | Reminder | 284K | [uphy/obsidian-reminder](https://github.com/uphy/obsidian-reminder) | System notifications for tasks with due-date detection and snooze options. |
 | TaskNotes | 200K | [callumalpass/tasknotes](https://github.com/callumalpass/tasknotes) | Note-based task management with calendar view, pomodoro timer, and time-tracking. |
-| Periodic Notes | — | [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes) | **[24K Stable · 2026-04]** Daily, weekly, monthly, quarterly, and yearly note templates. |
+| Periodic Notes | — | [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes) | [![24K Stable 2026-04](https://img.shields.io/badge/24K_Stable-2026--04-D4AF37?style=plastic)](CONTRIBUTING.md#stable-tier-24k-verified) Daily, weekly, monthly, quarterly, and yearly note templates. |
 
 ---
 
@@ -193,7 +193,7 @@ For technical users, automation, and integration with external tools.
 |--------|-----------|--------|-------------|
 | Importer | 1.19M | [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) | Official importer for Apple Notes, Evernote, Notion, Roam, Bear, and HTML. |
 | Homepage | 1.08M | [mirnovov/obsidian-homepage](https://github.com/mirnovov/obsidian-homepage) | Open a specified note, canvas, or workspace on Obsidian startup. |
-| Advanced Slides | 818K | [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides) | **[24K Stable · 2026-04]** Reveal.js-based slide decks with real-time preview and PDF/HTML export. |
+| Advanced Slides | 818K | [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides) | [![24K Stable 2026-04](https://img.shields.io/badge/24K_Stable-2026--04-D4AF37?style=plastic)](CONTRIBUTING.md#stable-tier-24k-verified) Reveal.js-based slide decks with real-time preview and PDF/HTML export. |
 | BRAT | 682K | [TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) | Install and update beta versions of plugins directly from GitHub repositories. |
 | Advanced URI | 572K | [Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri) | Trigger commands, navigate, search, and modify notes via URI scheme. |
 | Commander | 501K | [jsmorabito/obsidian-commander](https://github.com/jsmorabito/obsidian-commander) | Add custom commands to ribbons, status bar, file menus, and editor menus. |
@@ -213,7 +213,7 @@ For keeping the vault safe and synchronized across devices.
 
 | Plugin | Downloads | GitHub | Description |
 |--------|-----------|--------|-------------|
-| Remotely Save | 1.84M | [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) | **[24K Stable · 2026-04]** Sync to S3, Dropbox, OneDrive, Google Drive, or WebDAV with E2E encryption. |
+| Remotely Save | 1.84M | [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) | [![24K Stable 2026-04](https://img.shields.io/badge/24K_Stable-2026--04-D4AF37?style=plastic)](CONTRIBUTING.md#stable-tier-24k-verified) Sync to S3, Dropbox, OneDrive, Google Drive, or WebDAV with E2E encryption. |
 | Self-hosted LiveSync | — | [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) | CouchDB-based private sync with conflict resolution. |
 
 ---
@@ -226,7 +226,7 @@ Read, mark up, and link PDFs and EPUBs without leaving the vault.
 |--------|-----------|--------|-------------|
 | Annotator | 564K | [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) | Annotate PDFs and EPUB files inline with highlights, comments, and backlinks. |
 | PDF++ | 528K | [RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus) | Native-feeling PDF annotation with highlights, comments, page-level backlinks, and side-by-side editing. |
-| Markmind | 528K | [MarkMindCkm/obsidian-markmind](https://github.com/MarkMindCkm/obsidian-markmind) | **[Closed Source]** Mind map, outline, and PDF annotation in a single tool. |
+| Markmind | 528K | [MarkMindCkm/obsidian-markmind](https://github.com/MarkMindCkm/obsidian-markmind) | [![Closed Source](https://img.shields.io/badge/Closed_Source-9C9C9C?style=flat-square)](CONTRIBUTING.md#closed-source-tag) Mind map, outline, and PDF annotation in a single tool. |
 
 ---
 
@@ -313,8 +313,8 @@ The top ten themes, ordered by stars and active community support.
 |-------|--------|-------------|
 | Minimal | [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) | Best Theme Award winner — distraction-free, 4,700+ stars, hundreds of style settings. |
 | Catppuccin | [catppuccin/obsidian](https://github.com/catppuccin/obsidian) | Four soothing pastel palettes (Latte, Frappé, Macchiato, Mocha). |
-| Things | [colineckert/obsidian-things](https://github.com/colineckert/obsidian-things) | **[24K Stable · 2026-04]** Inspired by Things 3 — clean typography, native macOS feel. |
-| AnuPpuccin | [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) | **[24K Stable · 2026-04]** Enhanced plugin support and a popular aesthetic mix. |
+| Things | [colineckert/obsidian-things](https://github.com/colineckert/obsidian-things) | [![24K Stable 2026-04](https://img.shields.io/badge/24K_Stable-2026--04-D4AF37?style=plastic)](CONTRIBUTING.md#stable-tier-24k-verified) Inspired by Things 3 — clean typography, native macOS feel. |
+| AnuPpuccin | [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) | [![24K Stable 2026-04](https://img.shields.io/badge/24K_Stable-2026--04-D4AF37?style=plastic)](CONTRIBUTING.md#stable-tier-24k-verified) Enhanced plugin support and a popular aesthetic mix. |
 | Dracula | [druxorey/minimal-dracula-for-obsidian](https://github.com/druxorey/minimal-dracula-for-obsidian) | Minimal-based with a Dracula palette — works on PC, tablet, and mobile. |
 | Qlean | [froq0/Qlean](https://github.com/froq0/Qlean) | Clean, clutter-free interface for focus and productivity. |
 | Pale (淡) | [hariiy-sys/obsidian-Pale](https://github.com/hariiy-sys/obsidian-Pale) | Eastern minimalism — light and dark variants, serene and calm. |
@@ -338,7 +338,7 @@ External tools that pair well with Obsidian.
 ### Sync Solutions
 
 - [Syncthing](https://syncthing.net) — Self-hosted, peer-to-peer file sync with no third-party servers.
-- [Remotely Save](https://github.com/remotely-save/remotely-save) — **[24K Stable · 2026-04]** Plugin for S3, Dropbox, OneDrive, Google Drive, and WebDAV.
+- [Remotely Save](https://github.com/remotely-save/remotely-save) — [![24K Stable 2026-04](https://img.shields.io/badge/24K_Stable-2026--04-D4AF37?style=plastic)](CONTRIBUTING.md#stable-tier-24k-verified) Plugin for S3, Dropbox, OneDrive, Google Drive, and WebDAV.
 - [Self-hosted LiveSync](https://github.com/vrtmrz/obsidian-livesync) — CouchDB-based private sync with live conflict resolution.
 
 ### Automation & APIs
