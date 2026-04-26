@@ -59,6 +59,25 @@ The tag is re-verified each quarter as part of the maintenance audit. If any cri
 
 Stable entries appear in their natural categories alongside actively developed entries — the tag exists to be transparent about provenance, not to segregate the list.
 
+## Closed Source Tag
+
+A `[Closed Source]` tag on an entry means the plugin's source code is not publicly available. The entry is still considered for inclusion if it passes the same acceptance criteria, but the tag exists so users can make an informed choice.
+
+Closed-source plugins are evaluated more strictly: we require active maintenance (12-month rule, no Stable exception), a clear privacy policy if the plugin transmits data off-device, and no known unresolved security incidents.
+
+## Featured Pick (Monthly)
+
+Each month the maintainers select one plugin, theme, or tool to spotlight in the README's Featured section. The pick rotates on the 1st of every month.
+
+Selection criteria, in roughly this order:
+
+1. **Quality of execution** — design, polish, and reliability stand out within the category.
+2. **Active maintenance** — the maintainer is responsive and the project shows recent activity.
+3. **Distinct value** — solves a real problem or fills a gap that was not well-served before.
+4. **Underexposure** — preference for excellent work that has not yet hit the famous-plugin tier.
+
+Past picks are archived in [FEATURED.md](FEATURED.md) with the original write-up and the month featured. The Featured section is editorial: a Featured pick is not a substitute for the curated category lists, and a plugin can earn a Featured slot whether or not it appears elsewhere in the README.
+
 ## How to Submit
 
 1. Open a Pull Request titled `Add [Name]`.

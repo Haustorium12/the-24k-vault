@@ -11,8 +11,34 @@ Obsidian's plugin directory has 2,750+ entries and a review queue stretching pas
 
 The 24K Vault is the answer: a clean, opinionated, actively maintained pass through the entire Obsidian ecosystem — only what earns its place.
 
+## Featured This Month
+
+> ★ **April 2026** — [**PDF++**](https://github.com/RyotaUshio/obsidian-pdf-plus) by [@RyotaUshio](https://github.com/RyotaUshio)
+
+PDF annotation in Obsidian was a known weak spot for years. PDF++ closed that gap: highlights, comments, backlinks from PDF pages into your notes, side-by-side editing — built native to Obsidian's design language. 528K+ downloads, MIT-licensed, actively maintained.
+
+For anyone who keeps research papers or reference material in their vault, this shifts the workflow.
+
+[Past features →](FEATURED.md)
+
+---
+
+## What's New
+
+> April 2026 — Notable plugins recently merged into the official Obsidian directory. Surfaced for visibility; not yet 24K-curated.
+
+- [**Kanban Bases View**](https://github.com/xiwcx/obsidian-bases-kanban) — Kanban-style drag-and-drop view for Bases. Part of the growing Bases ecosystem.
+- [**Banners Reloaded**](https://github.com/dgcreations00/obsidian-banners-reloaded) — Maintained alternative to the original Banners plugin, customizable banner images for notes.
+- [**Smart Export**](https://github.com/LittleHaku/obsidian-smart-export) — Wikilink-following exporter that joins linked notes into a single document at configurable depth.
+- [**LongtimeDiary**](https://github.com/sawamaru/obsidian-LongtimeDiary) — Shows past daily notes from the same date in previous years for compounding journal context.
+- [**Synaptic View**](https://github.com/especialkim/obsidian-synaptic-view) — Unified control center for the vault: hubs, notes, tasks, and search in a single panel.
+
+---
+
 ## Contents
 
+- [Featured This Month](#featured-this-month)
+- [What's New](#whats-new)
 - [Quick Start](#quick-start)
 - [Essential Plugins](#essential-plugins)
 - [AI & LLM Plugins](#ai--llm-plugins)
