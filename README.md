@@ -98,6 +98,7 @@ Plugins that bring large language models into the vault — for chat, semantic s
 |--------|-----------|--------|-------------|
 | Copilot | 1.25M | [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) | AI writing assistant with Chat mode, Vault QA, and OpenAI/Azure/local model support. |
 | Smart Connections | 920K | [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) | AI embeddings for semantic search and Smart Chat with local model support. |
+| Text Generator | 539K | [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) | Generate text in any note via OpenAI, Anthropic, or local models with prompt templates. |
 
 ---
 
@@ -108,7 +109,14 @@ The connective tissue of a vault. Tools for organizing, surfacing, and refactori
 | Plugin | Downloads | GitHub | Description |
 |--------|-----------|--------|-------------|
 | Omnisearch | 1.38M | [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) | Smart search with OCR, PDF indexing, and automatic document scoring. |
+| Recent Files | 993K | [tgrosinger/recent-files-obsidian](https://github.com/tgrosinger/recent-files-obsidian) | Sidebar list of recently opened files for quick navigation. |
 | Tag Wrangler | 935K | [pjeby/tag-wrangler](https://github.com/pjeby/tag-wrangler) | Batch rename, merge, and organize tags with drag-and-drop. |
+| Natural Language Dates | 484K | [argenos/nldates-obsidian](https://github.com/argenos/nldates-obsidian) | Insert date links from natural language input ("next Friday", "yesterday"). |
+| Various Complements | 483K | [tadashi-aikawa/obsidian-various-complements-plugin](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin) | IDE-style autocomplete drawing from your vault, current file, and custom dictionaries. |
+| Folder Notes | 313K | [LostPaul/obsidian-folder-notes](https://github.com/LostPaul/obsidian-folder-notes) | Attach notes to folders without collapsing them, with index views and templates. |
+| ExcaliBrain | 297K | [zsviczian/excalibrain](https://github.com/zsviczian/excalibrain) | Interactive structured graph of note relationships, inspired by TheBrain and Breadcrumbs. |
+| Metadata Menu | 259K | [mdelobelle/metadatamenu](https://github.com/mdelobelle/metadatamenu) | Manage frontmatter properties with field types, validation, and Dataview integration. |
+| Find Orphaned Files | 205K | [Vinzent03/find-unlinked-files](https://github.com/Vinzent03/find-unlinked-files) | Surface files that no other note links to and broken links across the vault. |
 | Strange New Worlds | — | [TfTHacker/obsidian42-strange-new-worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) | Counts how many notes reference a link — makes connections visible inline. |
 | Breadcrumbs | — | [SkepticMystic/breadcrumbs](https://github.com/SkepticMystic/breadcrumbs) | Hierarchical note relationships with parent/child/sibling navigation. |
 | Note Refactor | — | [lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) | **[24K Stable · 2026-04]** Extract note content into new notes and split long notes cleanly. |
@@ -125,6 +133,11 @@ For prose, formatting, and editorial polish.
 | Outliner | 1.17M | [vslinko/obsidian-outliner](https://github.com/vslinko/obsidian-outliner) | Deep list structures with drag-and-drop and enhanced keyboard navigation. |
 | Admonition | 895K | [ebullient/obsidian-admonition](https://github.com/ebullient/obsidian-admonition) | Styled callout blocks (tips, warnings, notes) with custom CSS. |
 | Linter | 874K | [platers/obsidian-linter](https://github.com/platers/obsidian-linter) | Auto-format YAML, headings, spacing, footnotes, and markdown consistency. |
+| Highlightr | 632K | [chetachiezikeuzor/Highlightr-Plugin](https://github.com/chetachiezikeuzor/Highlightr-Plugin) | Color-coded text highlighting with a sidebar palette and keyboard shortcuts. |
+| Better Word Count | 569K | [lukeleppan/better-word-count](https://github.com/lukeleppan/better-word-count) | Word and character counts for selected text or full notes with daily writing stats. |
+| Hover Editor | 485K | [nothingislost/obsidian-hover-editor](https://github.com/nothingislost/obsidian-hover-editor) | Turn page-preview popovers into fully editable note instances. |
+| Easy Typing | 293K | [Yaozhuwa/easy-typing-obsidian](https://github.com/Yaozhuwa/easy-typing-obsidian) | Auto-format spacing, punctuation, and CJK/Latin transitions while typing. |
+| LanguageTool Integration | 281K | [Clemens-E/obsidian-languagetool-plugin](https://github.com/Clemens-E/obsidian-languagetool-plugin) | Grammar and spell checking via the LanguageTool API, supports 30+ languages. |
 
 ---
 
@@ -137,6 +150,11 @@ Project management primitives — tasks, boards, recurring notes.
 | Tasks | 3.34M | [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) | Cross-vault task management with due dates and recurrence. |
 | Kanban | 2.23M | [obsidian-community/obsidian-kanban](https://github.com/obsidian-community/obsidian-kanban) | Markdown-based Kanban project boards. |
 | QuickAdd | 1.72M | [chhoumann/quickadd](https://github.com/chhoumann/quickadd) | Workflow automation, captures, and macro execution. |
+| Day Planner | 773K | [ivan-lednev/obsidian-day-planner](https://github.com/ivan-lednev/obsidian-day-planner) | Time-blocked day planning from task lists with visual timeline and drag-to-reschedule. |
+| Full Calendar | 410K | [obsidian-community/obsidian-full-calendar](https://github.com/obsidian-community/obsidian-full-calendar) | Calendar event management alongside notes with iCal subscription and recurrence. |
+| Tracker | 330K | [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) | Chart numerical or text data extracted from notes (line, bar, pie, heatmap). |
+| Reminder | 284K | [uphy/obsidian-reminder](https://github.com/uphy/obsidian-reminder) | System notifications for tasks with due-date detection and snooze options. |
+| TaskNotes | 200K | [callumalpass/tasknotes](https://github.com/callumalpass/tasknotes) | Note-based task management with calendar view, pomodoro timer, and time-tracking. |
 | Periodic Notes | — | [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes) | **[24K Stable · 2026-04]** Daily, weekly, monthly, quarterly, and yearly note templates. |
 
 ---
@@ -149,7 +167,12 @@ For seeing the vault — diagrams, icons, navigation views, structural maps.
 |--------|-----------|--------|-------------|
 | Excalidraw | 5.87M | [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) | Visual diagrams, mind-maps, and drawings inside the vault. |
 | Iconize | 1.96M | [FlorianWoelki/obsidian-iconize](https://github.com/FlorianWoelki/obsidian-iconize) | Custom SVG icons for files, folders, notes, and tabs. |
+| Mind Map | 807K | [lynchjames/obsidian-mind-map](https://github.com/lynchjames/obsidian-mind-map) | Display Markdown notes as interactive mind maps using Markmap. |
+| Advanced Canvas | 535K | [Developer-Mike/obsidian-advanced-canvas](https://github.com/Developer-Mike/obsidian-advanced-canvas) | Extends Canvas with presentation mode, flowchart helpers, and node grouping. |
 | Notebook Navigator | — | [johansan/notebook-navigator](https://github.com/johansan/notebook-navigator) | Dual-pane file browser with folder/tag tree, previews, and keyboard-first navigation. |
+| Banners | 360K | [noatpad/obsidian-banners](https://github.com/noatpad/obsidian-banners) | Add banner images to the top of notes with positioning and icon support. |
+| File Tree Alternative | 330K | [ozntel/file-tree-alternative](https://github.com/ozntel/file-tree-alternative) | Two-pane file explorer with separate folder and file panels, plus pinning. |
+| Charts | 289K | [phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts) | Render charts inline using Chart.js syntax with Dataview support. |
 | Calendar Bases | — | [edrickleong/obsidian-calendar-bases](https://github.com/edrickleong/obsidian-calendar-bases) | Adds a calendar view to Bases — drag to reschedule, updates frontmatter automatically. |
 | Graphic Organizer | — | [nickfreedom/obsidian-graphic-organizer](https://github.com/nickfreedom/obsidian-graphic-organizer) | Interactive tree view of vault structure on a zoomable canvas. |
 
@@ -162,8 +185,18 @@ For technical users, automation, and integration with external tools.
 | Plugin | Downloads | GitHub | Description |
 |--------|-----------|--------|-------------|
 | Importer | 1.19M | [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) | Official importer for Apple Notes, Evernote, Notion, Roam, Bear, and HTML. |
+| Homepage | 1.08M | [mirnovov/obsidian-homepage](https://github.com/mirnovov/obsidian-homepage) | Open a specified note, canvas, or workspace on Obsidian startup. |
 | Advanced Slides | 818K | [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides) | **[24K Stable · 2026-04]** Reveal.js-based slide decks with real-time preview and PDF/HTML export. |
+| BRAT | 682K | [TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) | Install and update beta versions of plugins directly from GitHub repositories. |
+| Advanced URI | 572K | [Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri) | Trigger commands, navigate, search, and modify notes via URI scheme. |
+| Commander | 501K | [jsmorabito/obsidian-commander](https://github.com/jsmorabito/obsidian-commander) | Add custom commands to ribbons, status bar, file menus, and editor menus. |
+| Hider | 386K | [kepano/obsidian-hider](https://github.com/kepano/obsidian-hider) | Hide UI elements like tooltips, status bar, and titlebar for distraction-free editing. |
+| Buttons | 384K | [shabegom/buttons](https://github.com/shabegom/buttons) | Inline buttons in notes that run commands, open URLs, or insert templates. |
+| Quick Switcher++ | 372K | [darlal/obsidian-switcher-plus](https://github.com/darlal/obsidian-switcher-plus) | Enhanced Quick Switcher with workspace, header, symbol, and bookmark search. |
 | Local REST API | — | [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) | HTTPS interface for reading, creating, and updating notes from external tools. |
+| Meta Bind | 343K | [mProjectsCode/obsidian-meta-bind-plugin](https://github.com/mProjectsCode/obsidian-meta-bind-plugin) | Inline input fields, metadata displays, and buttons that bind to frontmatter. |
+| Custom Frames | 228K | [Ellpeck/ObsidianCustomFrames](https://github.com/Ellpeck/ObsidianCustomFrames) | Embed web apps as panes via iframes with CSS overrides and presets. |
+| Terminal | 219K | [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) | Integrated terminal in Obsidian with shell, console, and external session support. |
 
 ---
 
