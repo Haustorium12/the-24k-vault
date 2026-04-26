@@ -56,9 +56,11 @@ For anyone who keeps research papers or reference material in their vault, this 
 - [Reading & Library Plugins](#reading--library-plugins)
 - [Audio & Voice Plugins](#audio--voice-plugins)
 - [Themes](#themes)
+- [CSS Snippets](#css-snippets)
 - [Tools & Integrations](#tools--integrations)
 - [Resources](#resources)
 - [Workflows & Methodologies](#workflows--methodologies)
+- [Templates & Starter Vaults](#templates--starter-vaults)
 - [Plugin Development](#plugin-development)
 - [Need More?](#need-more)
 - [Contributing](#contributing)
@@ -327,6 +329,19 @@ The top ten themes, ordered by stars and active community support.
 
 ---
 
+## CSS Snippets
+
+Collections of `.css` files for customizing Obsidian's appearance beyond what themes expose — fonts, colors, callouts, layout, and UI elements. Drop files into `.obsidian/snippets/` and enable them in Settings → Appearance → CSS Snippets.
+
+| Collection | GitHub | What it covers |
+|------------|--------|----------------|
+| Dmytro-Shulha snippets | [Dmytro-Shulha/obsidian-css-snippets](https://github.com/Dmytro-Shulha/obsidian-css-snippets) | Most common appearance fixes — scrollbars, headings, embeds, tables. One of the most referenced snippet collections in the community. |
+| r-u-s-h-i-k-e-s-h snippets | [r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets) | Card layouts, callout styling, colored tags, and folder decorations. |
+| deathau snippets | [deathau/obsidian-snippets](https://github.com/deathau/obsidian-snippets) | Clutter-free headings, custom checkboxes, and focused writing tweaks. |
+| Colored Sidebar | [CyanVoxel/Obsidian-Colored-Sidebar](https://github.com/CyanVoxel/Obsidian-Colored-Sidebar) | Assign distinct colors to top-level folders for fast visual navigation. |
+
+---
+
 ## Tools & Integrations
 
 External tools that pair well with Obsidian.
@@ -396,6 +411,59 @@ Established frameworks that pair naturally with Obsidian.
 - **PARA Method** — Projects, Areas, Resources, Archive folder structure.
 - **Academic PKM** — Zotero plus Dataview plus Templater for research pipelines.
 - **Developer PKM** — Git plus Local REST API plus code-block templates for engineering notes.
+
+---
+
+## Templates & Starter Vaults
+
+Ready-to-fork vault structures and template packs. These are not plugins — they are downloadable organizational systems you set up once and build inside.
+
+### Dashboard Templates
+
+Homepage and dashboard note layouts — mission control for the vault.
+
+| Template | GitHub | Description |
+|----------|--------|-------------|
+| Obsidian Homepage (Rainbell) | [Rainbell129/Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage) | Full-featured dashboard with MOC navigation, project tracking, reading list, and daily stats. ~2,000 stars. |
+| Obsidian Homepage (faroukx) | [faroukx/obsidian-homepage](https://github.com/faroukx/obsidian-homepage) | Minimal aesthetic homepage with customizable widgets and a clean layout. |
+
+### Journaling & Life OS
+
+Full vault systems for daily journaling, life management, and periodic review cycles.
+
+| Vault | GitHub | Description |
+|-------|--------|-------------|
+| LifeOS Example Vault | [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) | 2024 Obsidian Gems award (3rd place). PARA + periodic notes. Life management built around weekly reviews. |
+| Life Ops Starter | [replete/life-ops-starter-obsidian-vault](https://github.com/replete/life-ops-starter-obsidian-vault) | Daily templates, Zettelkasten, QuickAdd macros, and Day Planner wired together out of the box. |
+| Obsidian Workflow Template | [mathisgauthey/obsidian-workflow-template](https://github.com/mathisgauthey/obsidian-workflow-template) | Tasks, projects, journaling, media tracking, and read-it-later unified in one vault. |
+
+### Finance Templates
+
+Personal finance tracking and budgeting built on Dataview and frontmatter properties.
+
+| Template | GitHub | Description |
+|----------|--------|-------------|
+| Personal Finance Vault | [LBerts/personal-finance](https://github.com/LBerts/personal-finance) | Monthly summary cards, balance charts, and spending-by-category views via Dataview. |
+| Expensica | [dhruvir-zala/obsidian-expensica](https://github.com/dhruvir-zala/obsidian-expensica) | Daily expense tracker using frontmatter properties and Dataview dashboards. |
+
+### Health & Habit Templates
+
+Daily habit tracking, mood logging, and health data visualization in the vault.
+
+| Template | GitHub | Description |
+|----------|--------|-------------|
+| Habit + Mood Tracker | [corinnekaryiu/obsidian-habit-mood-tracker](https://github.com/corinnekaryiu/obsidian-habit-mood-tracker) | Habit and mood tracking via daily notes with heatmap and chart views. |
+
+### Role-Specific Starter Vaults
+
+Opinionated vault setups for specific roles and use cases — fork and adapt.
+
+| Vault | GitHub | Description |
+|-------|--------|-------------|
+| Student Starter Vault | [shawngraham/obsidian-student-starter-vault](https://github.com/shawngraham/obsidian-student-starter-vault) | Academic research vault with citation workflow, reading notes, and essay drafting setup. |
+| Novel Starter Vault | [rrbaker/obsidian-novel-starter-vault](https://github.com/rrbaker/obsidian-novel-starter-vault) | Long-form writing vault for novels — character sheets, chapter tracking, world-building notes. |
+| History Research Vault | [erazlogo/obsidian-history-vault](https://github.com/erazlogo/obsidian-history-vault) | Academic history research with Zotero integration and structured source management. |
+| PARA Starter | [voidashi/obsidian-vault-template](https://github.com/voidashi/obsidian-vault-template) | Clean PARA-method second brain template (285 stars) — minimal setup, immediate productivity. |
 
 ---
 
