@@ -19,7 +19,7 @@ PDF annotation in Obsidian was a known weak spot for years. PDF++ closed that ga
 
 For anyone who keeps research papers or reference material in their vault, this shifts the workflow.
 
-[Past features →](FEATURED.md)
+[Read the full review →](articles/2026-04-pdf-plus.md) · [Past features →](FEATURED.md)
 
 ---
 
