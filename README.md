@@ -128,8 +128,7 @@ The connective tissue of a vault. Tools for organizing, surfacing, and refactori
 | Metadata Menu | 259K | [mdelobelle/metadatamenu](https://github.com/mdelobelle/metadatamenu) | Manage frontmatter properties with field types, validation, and Dataview integration. |
 | Find Orphaned Files | 205K | [Vinzent03/find-unlinked-files](https://github.com/Vinzent03/find-unlinked-files) | Surface files that no other note links to and broken links across the vault. |
 | Strange New Worlds | — | [TfTHacker/obsidian42-strange-new-worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) | Counts how many notes reference a link — makes connections visible inline. |
-| Breadcrumbs | — | [SkepticMystic/breadcrumbs](https://github.com/SkepticMystic/breadcrumbs) | Hierarchical note relationships with parent/child/sibling navigation. |
-| Note Refactor | — | [lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) | [![24K Stable 2026-04](https://img.shields.io/badge/24K_Stable-2026--04-D4AF37?style=plastic)](CONTRIBUTING.md#stable-tier-24k-verified) Extract note content into new notes and split long notes cleanly. |
+| Note Refactor | — | [lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) | Extract note content into new notes and split long notes cleanly. |
 
 ---
 
@@ -196,7 +195,7 @@ For technical users, automation, and integration with external tools.
 |--------|-----------|--------|-------------|
 | Importer | 1.19M | [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) | Official importer for Apple Notes, Evernote, Notion, Roam, Bear, and HTML. |
 | Homepage | 1.08M | [mirnovov/obsidian-homepage](https://github.com/mirnovov/obsidian-homepage) | Open a specified note, canvas, or workspace on Obsidian startup. |
-| Advanced Slides | 818K | [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides) | [![24K Stable 2026-04](https://img.shields.io/badge/24K_Stable-2026--04-D4AF37?style=plastic)](CONTRIBUTING.md#stable-tier-24k-verified) Reveal.js-based slide decks with real-time preview and PDF/HTML export. |
+| Slides Extended | 818K | [ebullient/obsidian-slides-extended](https://github.com/ebullient/obsidian-slides-extended) | [![24K Stable 2026-04](https://img.shields.io/badge/24K_Stable-2026--04-D4AF37?style=plastic)](CONTRIBUTING.md#stable-tier-24k-verified) Actively maintained fork of Advanced Slides — Reveal.js-based decks with real-time preview and PDF/HTML export. |
 | BRAT | 682K | [TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) | Install and update beta versions of plugins directly from GitHub repositories. |
 | Advanced URI | 572K | [Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri) | Trigger commands, navigate, search, and modify notes via URI scheme. |
 | Commander | 501K | [jsmorabito/obsidian-commander](https://github.com/jsmorabito/obsidian-commander) | Add custom commands to ribbons, status bar, file menus, and editor menus. |
