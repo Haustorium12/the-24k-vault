@@ -29,7 +29,6 @@ For anyone who has wanted a Notion-style database inside their vault without the
 
 - [**Calendar Bases**](https://github.com/edrickleong/obsidian-calendar-bases) — Calendar view for Bases. Drag notes to reschedule; updates frontmatter date property automatically. Built on the official Bases API.
 - [**Kanban Bases View**](https://github.com/xiwcx/obsidian-bases-kanban) — Kanban-style drag-and-drop board view for Bases. Cards move between status columns.
-- [**Bases Property Enhancer**](https://github.com/xhuajin/obsidian-bases-property-enhancer) — Extends Bases with additional property type display options and formula shortcuts.
 - [**Smart Export**](https://github.com/LittleHaku/obsidian-smart-export) — Wikilink-following exporter that joins linked notes into a single document at configurable depth.
 - [**Synaptic View**](https://github.com/especialkim/obsidian-synaptic-view) — Unified control center for the vault: hubs, notes, tasks, and search in a single panel.
 
@@ -87,6 +86,7 @@ The foundation. If a vault has more than ten plugins, most of these are in it.
 
 | Plugin | Downloads | GitHub | Description |
 |--------|-----------|--------|-------------|
+| Bases | Built-in | [obsidian.md/help/bases](https://obsidian.md/help/bases) | [![24K Featured 2026-05](https://img.shields.io/badge/24K_Featured-2026--05-C0C0C0?style=plastic)](FEATURED.md) Core plugin (no install). Filter and view notes as a database — table, cards, list, map. Inline editing, formula language, shareable `.base` files. |
 | Excalidraw | 5.87M | [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) | Visual diagrams, mind-maps, and drawings with LaTeX and a script engine. |
 | Templater | 4.12M | [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) | Dynamic templates with variables, JS execution, and user prompts. |
 | Dataview | 4.02M | [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) | SQL-like queries over the vault for dashboards, MOCs, and automated lists. |
