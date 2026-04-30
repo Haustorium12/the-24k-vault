@@ -6,6 +6,20 @@ Selection criteria are documented in [CONTRIBUTING.md](CONTRIBUTING.md#featured-
 
 ---
 
+## May 2026 — Obsidian Bases
+
+> [**Bases**](https://obsidian.md/help/bases) — Obsidian core plugin, shipped in 1.9.0
+
+[![24K Featured](https://img.shields.io/badge/24K_Featured-2026--05-C0C0C0?style=plastic)](CONTRIBUTING.md#featured-pick-monthly)
+
+Bases is Obsidian's native structured data layer: a core plugin (no install required) that turns frontmatter properties into filterable, sortable, editable database views. Four built-in view types (table, cards, list, map), a formula language with 15+ functions, a shareable `.base` file format in plain YAML, and an extension API that community plugins are already building on.
+
+It does not replace Dataview — it covers a different surface area, faster, with inline editing and no code required. For the majority of real-world structured vault use cases, it is now the right starting point.
+
+[**→ Read the full review**](articles/2026-05-obsidian-bases.md) (hands-on, MotorWeek-style)
+
+---
+
 ## April 2026 — PDF++
 
 > [**PDF++**](https://github.com/RyotaUshio/obsidian-pdf-plus) by [@RyotaUshio](https://github.com/RyotaUshio)
