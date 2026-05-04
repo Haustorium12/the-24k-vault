@@ -179,7 +179,7 @@ For seeing the vault — diagrams, icons, navigation views, structural maps.
 | Mind Map | 807K | [lynchjames/obsidian-mind-map](https://github.com/lynchjames/obsidian-mind-map) | Display Markdown notes as interactive mind maps using Markmap. |
 | Advanced Canvas | 535K | [Developer-Mike/obsidian-advanced-canvas](https://github.com/Developer-Mike/obsidian-advanced-canvas) | Extends Canvas with presentation mode, flowchart helpers, and node grouping. |
 | Notebook Navigator | — | [johansan/notebook-navigator](https://github.com/johansan/notebook-navigator) | Dual-pane file browser with folder/tag tree, previews, and keyboard-first navigation. |
-| Banners | 360K | [noatpad/obsidian-banners](https://github.com/noatpad/obsidian-banners) | Add banner images to the top of notes with positioning and icon support. |
+| Banners Reloaded | 7K | [dgcreations00/obsidian-banners-reloaded](https://github.com/dgcreations00/obsidian-banners-reloaded) | Community-maintained successor to obsidian-banners; add banner images to the top of notes with positioning and icon support. |
 | File Tree Alternative | 330K | [ozntel/file-tree-alternative](https://github.com/ozntel/file-tree-alternative) | Two-pane file explorer with separate folder and file panels, plus pinning. |
 | Charts | 289K | [phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts) | Render charts inline using Chart.js syntax with Dataview support. |
 | Calendar Bases | — | [edrickleong/obsidian-calendar-bases](https://github.com/edrickleong/obsidian-calendar-bases) | Adds a calendar view to Bases — drag to reschedule, updates frontmatter automatically. |
@@ -434,7 +434,6 @@ Full vault systems for daily journaling, life management, and periodic review cy
 |-------|--------|-------------|
 | LifeOS Example Vault | [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) | 2024 Obsidian Gems award (3rd place). PARA + periodic notes. Life management built around weekly reviews. |
 | Life Ops Starter | [replete/life-ops-starter-obsidian-vault](https://github.com/replete/life-ops-starter-obsidian-vault) | Daily templates, Zettelkasten, QuickAdd macros, and Day Planner wired together out of the box. |
-| Obsidian Workflow Template | [mathisgauthey/obsidian-workflow-template](https://github.com/mathisgauthey/obsidian-workflow-template) | Tasks, projects, journaling, media tracking, and read-it-later unified in one vault. |
 
 ### Finance Templates
 
@@ -459,7 +458,6 @@ Opinionated vault setups for specific roles and use cases — fork and adapt.
 
 | Vault | GitHub | Description |
 |-------|--------|-------------|
-| Student Starter Vault | [shawngraham/obsidian-student-starter-vault](https://github.com/shawngraham/obsidian-student-starter-vault) | Academic research vault with citation workflow, reading notes, and essay drafting setup. |
 | Novel Starter Vault | [rrbaker/obsidian-novel-starter-vault](https://github.com/rrbaker/obsidian-novel-starter-vault) | Long-form writing vault for novels — character sheets, chapter tracking, world-building notes. |
 | History Research Vault | [erazlogo/obsidian-history-vault](https://github.com/erazlogo/obsidian-history-vault) | Academic history research with Zotero integration and structured source management. |
 | PARA Starter | [voidashi/obsidian-vault-template](https://github.com/voidashi/obsidian-vault-template) | Clean PARA-method second brain template (285 stars) — minimal setup, immediate productivity. |

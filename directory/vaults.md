@@ -2,7 +2,7 @@
 
 > Public starter vaults, template systems, and reference vaults you can browse, fork, or learn from.
 >
-> Last reviewed: 2026-04-25.
+> Last reviewed: 2026-05-03.
 
 ## Starter Vaults
 
@@ -19,7 +19,6 @@ Full-vault systems for life management, daily journaling, and periodic review.
 
 - [**LifeOS Example Vault**](https://github.com/quanru/obsidian-example-lifeos) — 2024 Obsidian Gems award (3rd place). PARA + periodic notes. Built around weekly reviews.
 - [**Life Ops Starter**](https://github.com/replete/life-ops-starter-obsidian-vault) — Daily templates, Zettelkasten, QuickAdd, and Day Planner wired together.
-- [**Obsidian Workflow Template**](https://github.com/mathisgauthey/obsidian-workflow-template) — Tasks, projects, journaling, media tracking, and read-it-later in one vault.
 
 ## Dashboard Templates
 
@@ -43,7 +42,6 @@ Personal finance and budgeting built on Dataview and frontmatter.
 
 Opinionated setups for specific roles — fork and adapt.
 
-- [**Student Starter Vault**](https://github.com/shawngraham/obsidian-student-starter-vault) — Academic research vault with citation workflow, reading notes, and essay drafting.
 - [**Novel Starter Vault**](https://github.com/rrbaker/obsidian-novel-starter-vault) — Long-form writing vault for novels — character sheets, chapter tracking, world-building.
 - [**History Research Vault**](https://github.com/erazlogo/obsidian-history-vault) — Academic history research with Zotero integration and structured source management.
 - [**PARA Starter**](https://github.com/voidashi/obsidian-vault-template) — Clean PARA-method second brain template (285 stars).
