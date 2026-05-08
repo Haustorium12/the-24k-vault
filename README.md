@@ -147,6 +147,7 @@ For prose, formatting, and editorial polish.
 | Hover Editor | 485K | [nothingislost/obsidian-hover-editor](https://github.com/nothingislost/obsidian-hover-editor) | Turn page-preview popovers into fully editable note instances. |
 | Easy Typing | 293K | [Yaozhuwa/easy-typing-obsidian](https://github.com/Yaozhuwa/easy-typing-obsidian) | Auto-format spacing, punctuation, and CJK/Latin transitions while typing. |
 | LanguageTool Integration | 281K | [Clemens-E/obsidian-languagetool-plugin](https://github.com/Clemens-E/obsidian-languagetool-plugin) | Grammar and spell checking via the LanguageTool API, supports 30+ languages. |
+| WordFlow Tracker | 5K | [LeCheenaX/WordFlow-Tracker](https://github.com/LeCheenaX/WordFlow-Tracker) | Tracks edits and focused writing time per note, logging statistics automatically to daily or periodic notes. |
 
 ---
 
