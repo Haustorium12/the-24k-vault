@@ -6,6 +6,20 @@ Selection criteria are documented in [CONTRIBUTING.md](CONTRIBUTING.md#featured-
 
 ---
 
+## June 2026 — Calendar Bases
+
+> [**Calendar Bases**](https://github.com/edrickleong/obsidian-calendar-bases) by [@edrickleong](https://github.com/edrickleong)
+
+[![24K Featured](https://img.shields.io/badge/24K_Featured-2026--06-C0C0C0?style=plastic)](CONTRIBUTING.md#featured-pick-monthly)
+
+Calendar Bases adds a calendar view to Obsidian Bases: notes as events on a monthly or weekly grid, positioned by any date frontmatter property. The headline feature is drag-to-reschedule — drag a note to a new date and the frontmatter updates immediately. 61K downloads in its first year, built on the official Bases extension API.
+
+For content calendars, project schedules, and weekly planning systems built on frontmatter properties — this is the missing spatial layer.
+
+[**→ Read the full review**](articles/2026-06-calendar-bases.md) (hands-on, MotorWeek-style)
+
+---
+
 ## May 2026 — Obsidian Bases
 
 > [**Bases**](https://obsidian.md/help/bases) — Obsidian core plugin, shipped in 1.9.0

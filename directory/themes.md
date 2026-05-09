@@ -4,7 +4,7 @@
 >
 > **Curated theme picks** with our notes live in the [main README's Themes section](../README.md#themes).
 >
-> Last synced: 2026-04-25 from [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases).
+> Last synced: 2026-05-01 from [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases).
 > Source file: `community-css-themes.json`.
 
 **415 themes indexed.**
@@ -567,4 +567,4 @@
 
 ---
 
-*Index generated 2026-04-25. 415 themes from `obsidianmd/obsidian-releases`. Re-sync via `tools/curation_audit.py`.*
+*Index generated 2026-05-01. 415 themes from `obsidianmd/obsidian-releases`. Re-sync via `tools/curation_audit.py`.*
