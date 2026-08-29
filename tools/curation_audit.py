@@ -19,16 +19,19 @@ Usage:
   python tools/curation_audit.py sync       # sync only
   python tools/curation_audit.py audit      # audit only
 
-Requires the gh CLI authenticated (for rate-limited API calls).
+Uses the GitHub REST API directly. Set GHTOK (or GITHUB_TOKEN) for the
+5,000/hr authenticated rate limit -- unauthenticated (60/hr) will not
+cover the full curated set.
 CP1252-safe ASCII source per project convention.
 """
 
 from __future__ import annotations
 
 import json
+import os
 import re
-import subprocess
 import sys
+import urllib.error
 import urllib.request
 from collections import OrderedDict
 from datetime import datetime
@@ -226,18 +229,46 @@ def extract_curated_repos() -> list[str]:
 
 
 def gh_api_repo(repo: str) -> dict:
-    """Fetch repo metadata via gh CLI."""
+    """Fetch repo metadata from the GitHub REST API directly.
+
+    Was a `gh` CLI shell-out. The CLI is not present in the scheduled
+    execution environment, so every curated-repo check from the vault's
+    first audit through 2026-08-01 returned an error and the report said
+    "0 OK" while reading as a completed audit. A raw-HEAD fallback added
+    2026-08-27 confirmed existence but could not see `archived`, which is
+    the one field the audit exists to read.
+
+    Auth: GHTOK or GITHUB_TOKEN if present (5,000 req/hr). Without a token
+    the call still works at 60 req/hr, which is under the ~124 curated
+    references -- so an unauthenticated run WILL rate-limit partway and
+    must say so rather than reporting the remainder as clean.
+    """
+    token = os.environ.get('GHTOK') or os.environ.get('GITHUB_TOKEN')
+    headers = {
+        'User-Agent': '24k-vault-audit',
+        'Accept': 'application/vnd.github+json',
+    }
+    if token:
+        headers['Authorization'] = 'Bearer ' + token
+    req = urllib.request.Request(
+        f'https://api.github.com/repos/{repo}', headers=headers
+    )
     try:
-        result = subprocess.run(
-            [
-                'gh', 'api', f'repos/{repo}', '--jq',
-                '{full_name, archived, pushed_at, stargazers_count, html_url}',
-            ],
-            capture_output=True, text=True, timeout=20,
-        )
-        if result.returncode == 0 and result.stdout.strip():
-            return json.loads(result.stdout)
-        return {'error': (result.stderr or 'no output').strip()[:200]}
+        with urllib.request.urlopen(req, timeout=20) as resp:
+            info = json.loads(resp.read().decode('utf-8'))
+        return {
+            'full_name': info.get('full_name', ''),
+            'archived': info.get('archived', False),
+            'pushed_at': info.get('pushed_at', '?'),
+            'stargazers_count': info.get('stargazers_count', 0),
+            'html_url': info.get('html_url', ''),
+        }
+    except urllib.error.HTTPError as exc:
+        if exc.code == 404:
+            return {'error': '404 not found (deleted or renamed)'}
+        if exc.code in (403, 429):
+            return {'error': f'{exc.code} rate limited -- NOT a clean result'}
+        return {'error': f'HTTP {exc.code}'}
     except Exception as exc:
         return {'error': str(exc)[:200]}
 
@@ -265,13 +296,20 @@ def audit(today_iso: str) -> dict:
             findings['errors'].append((repo, info['error']))
             continue
         canonical = info.get('full_name', '')
-        if canonical.lower() != repo.lower():
+        stale = canonical.lower() != repo.lower()
+        if stale:
             findings['stale_url'].append((repo, canonical))
-            continue
+        # Do NOT short-circuit here. A repo can be BOTH transferred and
+        # archived, and the old `continue` meant the archived check never
+        # ran on it -- so the report said "Archived: 0" while
+        # obsidian-community/obsidian-full-calendar sat on the shelf,
+        # transferred to community-archive/ and archived since 2024-11-08.
+        # A count that reads clean because the check was skipped is worse
+        # than no count. (Found and fixed 2026-08-29.)
         if info.get('archived'):
-            findings['archived'].append((repo, info.get('pushed_at', '?')))
-            continue
-        findings['ok'].append((repo, info.get('pushed_at', '?')))
+            findings['archived'].append((canonical or repo, info.get('pushed_at', '?')))
+        elif not stale:
+            findings['ok'].append((repo, info.get('pushed_at', '?')))
 
     findings['_meta'] = {
         'audited': len(curated),
