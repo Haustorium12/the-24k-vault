@@ -1,17 +1,21 @@
 # The 24K Vault
 
-> The curated Obsidian ecosystem. Plugins, themes, tools, and resources — handpicked by 24K Labs. No filler. No abandonware. Updated weekly.
+> The curated Obsidian ecosystem. Plugins, themes, tools, and resources — handpicked by 24K Labs. No filler. No abandonware.
+>
+> **Every curated entry re-checked against GitHub on 2026-08-29** — 120 references, 4 stale URLs corrected, 1 archived entry pulled. We publish the date, not a promise.
 
 [![GitHub stars](https://img.shields.io/github/stars/Haustorium12/the-24k-vault?style=social)](https://github.com/Haustorium12/the-24k-vault)
 [![Last Commit](https://img.shields.io/github/last-commit/Haustorium12/the-24k-vault)](https://github.com/Haustorium12/the-24k-vault/commits/main)
-[![Obsidian](https://img.shields.io/badge/Obsidian-2,750%2B_plugins-7C3AED?logo=obsidian)](https://obsidian.md/plugins)
+[![Obsidian](https://img.shields.io/badge/Obsidian-7,088_plugins-7C3AED?logo=obsidian)](https://obsidian.md/plugins)
 [![Curated by 24K Labs](https://img.shields.io/badge/Curated_by-24K_Labs-gold)](https://github.com/Haustorium12)
 
-Obsidian's plugin directory has 2,750+ entries and a review queue stretching past 2,100 submissions with 5-month wait times. Discovery is broken. Curation is overdue.
+Obsidian's community registry carries **7,088 plugins and 717 themes** (read 2026-08-29 from `obsidianmd/obsidian-releases`) — up from 2,750 plugins in May. Nobody can browse that. Discovery is broken. Curation is overdue.
 
 The 24K Vault is the answer: a clean, opinionated, actively maintained pass through the entire Obsidian ecosystem — only what earns its place.
 
-## Featured This Month
+## Featured
+
+_Last pick: June 2026. The vault went unmaintained from 2026-05-09 to 2026-08-29; July and August have no pick and will not be backfilled._
 
 > ★ **June 2026** — [**Calendar Bases**](https://github.com/edrickleong/obsidian-calendar-bases) — community plugin by [@edrickleong](https://github.com/edrickleong)
 
@@ -25,7 +29,7 @@ For anyone who manages an editorial calendar, project schedule, or weekly plan i
 
 ## What's New
 
-> June 2026 — Notable plugins recently merged into the official directory.
+> Notable plugins merged into the official registry, as of the June 2026 pass. **Not refreshed since** — the 2026-08-29 sync added 4,338 plugins that have not been triaged.
 
 - [**Typst Mate**](https://github.com/azyarashi/obsidian-typst-mate) — Native Typst typesetting inside Obsidian. Typst is the fast-rising LaTeX alternative gaining traction in academia and technical writing. 11K downloads.
 - [**Kanban Bases View**](https://github.com/xiwcx/obsidian-bases-kanban) — Kanban board view built on the Bases API. Drag cards between status columns; updates frontmatter automatically. 9K downloads.
@@ -36,7 +40,7 @@ For anyone who manages an editorial calendar, project schedule, or weekly plan i
 
 ## Contents
 
-- [Featured This Month](#featured-this-month)
+- [Featured](#featured)
 - [What's New](#whats-new)
 - [Quick Start](#quick-start)
 - [Essential Plugins](#essential-plugins)
@@ -94,8 +98,8 @@ The foundation. If a vault has more than ten plugins, most of these are in it.
 | Advanced Tables | 2.73M | [tgrosinger/advanced-tables-obsidian](https://github.com/tgrosinger/advanced-tables-obsidian) | Spreadsheet-like markdown tables with formulas, sorting, and CSV export. |
 | Calendar | 2.56M | [liamcain/obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin) | [![24K Stable 2026-04](https://img.shields.io/badge/24K_Stable-2026--04-D4AF37?style=plastic)](CONTRIBUTING.md#stable-tier-24k-verified) Month-view sidebar navigator for daily and weekly notes. |
 | Git | 2.44M | [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) | Automated commits, sync, diff view, and full Git integration. |
-| Style Settings | 2.25M | [obsidian-community/obsidian-style-settings](https://github.com/obsidian-community/obsidian-style-settings) | Centralized CSS customization for themes and plugins. |
-| Kanban | 2.23M | [obsidian-community/obsidian-kanban](https://github.com/obsidian-community/obsidian-kanban) | Markdown-based Kanban boards with drag-and-drop. |
+| Style Settings | 2.25M | [community-archive/obsidian-style-settings](https://github.com/community-archive/obsidian-style-settings) | Centralized CSS customization for themes and plugins. |
+| Kanban | 2.23M | [community-archive/obsidian-kanban](https://github.com/community-archive/obsidian-kanban) | Markdown-based Kanban boards with drag-and-drop. |
 | QuickAdd | 1.72M | [chhoumann/quickadd](https://github.com/chhoumann/quickadd) | Templates, captures, and macros for streamlined note creation. |
 
 ---
@@ -158,10 +162,8 @@ Project management primitives — tasks, boards, recurring notes.
 | Plugin | Downloads | GitHub | Description |
 |--------|-----------|--------|-------------|
 | Tasks | 3.34M | [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) | Cross-vault task management with due dates and recurrence. |
-| Kanban | 2.23M | [obsidian-community/obsidian-kanban](https://github.com/obsidian-community/obsidian-kanban) | Markdown-based Kanban project boards. |
 | QuickAdd | 1.72M | [chhoumann/quickadd](https://github.com/chhoumann/quickadd) | Workflow automation, captures, and macro execution. |
 | Day Planner | 773K | [ivan-lednev/obsidian-day-planner](https://github.com/ivan-lednev/obsidian-day-planner) | Time-blocked day planning from task lists with visual timeline and drag-to-reschedule. |
-| Full Calendar | 410K | [obsidian-community/obsidian-full-calendar](https://github.com/obsidian-community/obsidian-full-calendar) | Calendar event management alongside notes with iCal subscription and recurrence. |
 | Tracker | 330K | [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) | Chart numerical or text data extracted from notes (line, bar, pie, heatmap). |
 | Reminder | 284K | [uphy/obsidian-reminder](https://github.com/uphy/obsidian-reminder) | System notifications for tasks with due-date detection and snooze options. |
 | TaskNotes | 200K | [callumalpass/tasknotes](https://github.com/callumalpass/tasknotes) | Note-based task management with calendar view, pomodoro timer, and time-tracking. |
@@ -364,7 +366,7 @@ External tools that pair well with Obsidian.
 
 ### Research & Citations
 
-- [Zotero Integration](https://github.com/obsidian-community/obsidian-zotero-integration) — Citation, PDF, and reference library sync between Zotero and Obsidian.
+- [Zotero Integration](https://github.com/community-archive/obsidian-zotero-integration) — Citation, PDF, and reference library sync between Zotero and Obsidian.
 
 ---
 
