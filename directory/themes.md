@@ -4,10 +4,10 @@
 >
 > **Curated theme picks** with our notes live in the [main README's Themes section](../README.md#themes).
 >
-> Last synced: 2026-08-29 from [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases).
+> Last synced: 2026-11-01 from [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases).
 > Source file: `community-css-themes.json`.
 
-**717 themes indexed.**
+**960 themes indexed.**
 
 ## Index
 
@@ -20,22 +20,32 @@
 | Theme | Modes | Repo |
 |-------|-------|------|
 | [AAAA](https://github.com/austinsuun/obsidian-AAAA) | Dark / Light | `austinsuun/obsidian-AAAA` |
-| [Abate](https://github.com/ricedev10/Abate-theme) | Light | `ricedev10/Abate-theme` |
+| [Abate](https://github.com/kai-h1/Abate-theme) | Light | `kai-h1/Abate-theme` |
 | [Abecedarium](https://github.com/zalenza/Abecedarium-theme) | Dark / Light | `zalenza/Abecedarium-theme` |
 | [AbsoluteGruv](https://github.com/kkyrusobad/AbsoluteGruv) | Dark | `kkyrusobad/AbsoluteGruv` |
+| [AbsolutelyBaseline](https://github.com/dingye0604/AbsolutelyBaseline) | Dark / Light | `dingye0604/AbsolutelyBaseline` |
+| [AbsolutelyGlass](https://github.com/dingye0604/AbsolutelyGlass) | Dark / Light | `dingye0604/AbsolutelyGlass` |
 | [Abyssal](https://github.com/tazpellegrini/abyssalobsidian) | Dark / Light | `tazpellegrini/abyssalobsidian` |
+| [Academic-Vibes](https://github.com/fleyreal/academic-vibes-theme) | Dark | `fleyreal/academic-vibes-theme` |
+| [Acid Xerox](https://github.com/remriel/acid-xerox-theme) | Dark / Light | `remriel/acid-xerox-theme` |
 | [Acovia](https://github.com/fovlin/obsidian-acovia-theme) | Dark / Light | `fovlin/obsidian-acovia-theme` |
 | [Adrenaline](https://github.com/spekulucius/obsidian-adrenaline) | Dark / Light | `spekulucius/obsidian-adrenaline` |
 | [Adwaita](https://github.com/birneee/obsidian-adwaita-theme) | Dark / Light | `birneee/obsidian-adwaita-theme` |
+| [Adwaita Flexoki](https://github.com/chillbok/obsidian-adwaita-flexoki) | Dark / Light | `chillbok/obsidian-adwaita-flexoki` |
+| [Adwaita Modern](https://github.com/mogpduck/obsidian-Adwaita) | Dark / Light | `mogpduck/obsidian-Adwaita` |
 | [Aera](https://github.com/def-peter/obsidian-aera-theme) | Dark / Light | `def-peter/obsidian-aera-theme` |
 | [Aether Core](https://github.com/cosmicseafox/Aether-Core) | Dark / Light | `cosmicseafox/Aether-Core` |
+| [Aether Works](https://github.com/anthonyfitzpatrick/obsidian-theme-aether-works) | Dark / Light | `anthonyfitzpatrick/obsidian-theme-aether-works` |
 | [Afterglow](https://github.com/rikilamadrid/obsidian-afterglow) | Dark / Light | `rikilamadrid/obsidian-afterglow` |
 | [Agate](https://github.com/solm0/Agate) | Light | `solm0/Agate` |
 | [aged whisky](https://github.com/incantatem2/Obsidian-aged-whisky) | Dark | `incantatem2/Obsidian-aged-whisky` |
+| [Aino](https://github.com/quanru/aino-obsidian-theme) | Dark / Light | `quanru/aino-obsidian-theme` |
+| [Aion](https://github.com/sltsh/aion) | Dark / Light | `sltsh/aion` |
 | [Air](https://github.com/punkyard/obsidian-theme-air) | Dark / Light | `punkyard/obsidian-theme-air` |
 | [AK Sky Breeze](https://github.com/alokinkal/AK-Sky-Breeze) | Light | `alokinkal/AK-Sky-Breeze` |
 | [Al Dente](https://github.com/chad-bennett/al-dente-obsidian-theme) | Light | `chad-bennett/al-dente-obsidian-theme` |
 | [Alice Velvet](https://github.com/kaymade/alice-velvet) | Dark / Light | `kaymade/alice-velvet` |
+| [All Hallows Eve](https://github.com/ramenofficialgovpatsy/All-Hallows-Eve) | Dark / Light | `ramenofficialgovpatsy/All-Hallows-Eve` |
 | [Allium](https://github.com/xainapse/Allium) | Dark / Light | `xainapse/Allium` |
 | [Amber Cathode](https://github.com/bkindler/amber-cathode) | Dark | `bkindler/amber-cathode` |
 | [Amber Glass Phosphor](https://github.com/egellman89/Amber-Glass-Phosphor) | Dark | `egellman89/Amber-Glass-Phosphor` |
@@ -44,6 +54,8 @@
 | [An Old Hope](https://github.com/banastas/an-old-hope-obsidian-theme) | Dark / Light | `banastas/an-old-hope-obsidian-theme` |
 | [Anarchy](https://github.com/niedzielawieczur/Anarchy) | Dark / Light | `niedzielawieczur/Anarchy` |
 | [Anatomy Nocturne](https://github.com/cosmicseafox/anatomy-nocturne) | Dark / Light | `cosmicseafox/anatomy-nocturne` |
+| [Animal Island](https://github.com/arden-kfc/obsidian-theme-animal-island) | Dark / Light | `arden-kfc/obsidian-theme-animal-island` |
+| [Animal Island Cozy](https://github.com/tiffanyiong/obsidian-animal-island) | Dark / Light | `tiffanyiong/obsidian-animal-island` |
 | [Another Nord](https://github.com/qanszer/another-obsidian-nord-theme) | Dark / Light | `qanszer/another-obsidian-nord-theme` |
 | [Antique Flowers](https://github.com/incantatem2/Obsidian-antique-flowers) | Dark / Light | `incantatem2/Obsidian-antique-flowers` |
 | [AnuPpuccin](https://github.com/anubisnekhet/AnuPpuccin) | Dark / Light | `anubisnekhet/AnuPpuccin` |
@@ -51,16 +63,24 @@
 | [Apathy](https://github.com/czxtm/apathy-obsidian) | Dark | `czxtm/apathy-obsidian` |
 | [Apex](https://github.com/clearlysid/apex) | Dark / Light | `clearlysid/apex` |
 | [Apple Notes](https://github.com/alexxozo/apple-notes-obsidian) | Dark / Light | `alexxozo/apple-notes-obsidian` |
+| [Apple System Colors](https://github.com/overjoyde/obsidian-apple-system-colors) | Dark | `overjoyde/obsidian-apple-system-colors` |
 | [Arcadia](https://github.com/petercartersr/Obsidian-Theme) | Dark / Light | `petercartersr/Obsidian-Theme` |
 | [Arcane](https://github.com/xryul/obsidian-arcane-theme) | Dark | `xryul/obsidian-arcane-theme` |
+| [Arcubic](https://github.com/trainvent/arcubic) | Dark / Light | `trainvent/arcubic` |
+| [Arkfield](https://github.com/genskyff/obsidian-arkfield) | Light | `genskyff/obsidian-arkfield` |
 | [Ars Magna](https://github.com/mediapathic/obsidian-arsmagna-theme) | Dark / Light | `mediapathic/obsidian-arsmagna-theme` |
 | [Arzaba](https://github.com/darioarzaba/Obsidian-Theme-Arzaba) | Dark / Light | `darioarzaba/Obsidian-Theme-Arzaba` |
+| [Asia Neon](https://github.com/sspaeti/obsidian_asia_neon) | Dark / Light | `sspaeti/obsidian_asia_neon` |
+| [Astrum](https://github.com/serena-sheng/obsidian-astrum) | Dark / Light | `serena-sheng/obsidian-astrum` |
 | [Atelier](https://github.com/bsbbera/atelier-obsidian) | Dark / Light | `bsbbera/atelier-obsidian` |
+| [Atlas VTT](https://github.com/bytemirror/atlas-vtt-theme) | Dark / Light | `bytemirror/atlas-vtt-theme` |
 | [Atom](https://github.com/kognise/obsidian-atom) | Dark / Light | `kognise/obsidian-atom` |
+| [Atom One Pro](https://github.com/devabdallahabdelrahim/atom-one-pro-obsidian) | Dark / Light | `devabdallahabdelrahim/atom-one-pro-obsidian` |
 | [Aubade](https://github.com/ducktapekiller/obsidian-aubade) | Dark / Light | `ducktapekiller/obsidian-aubade` |
 | [Auger](https://github.com/davidgolding/obsidian-auger) | Dark / Light | `davidgolding/obsidian-auger` |
 | [Aura](https://github.com/shadowash8/obsidian-aura) | Dark / Light | `shadowash8/obsidian-aura` |
 | [Aura Dark](https://github.com/possibly-not/obsidian-aura-theme) | Dark | `possibly-not/obsidian-aura-theme` |
+| [AURENYX](https://github.com/aurenyx-lab/aurenyx-obsidian) | Dark / Light | `aurenyx-lab/aurenyx-obsidian` |
 | [Aurora](https://github.com/auroral-ui/aurora-obsidian-md) | Dark | `auroral-ui/aurora-obsidian-md` |
 | [Aurora Glass](https://github.com/otmivi/aurora_glass) | Dark / Light | `otmivi/aurora_glass` |
 | [Aurora-Twilight](https://github.com/quinta0/Aurora-Twilight) | Dark / Light | `quinta0/Aurora-Twilight` |
@@ -71,6 +91,8 @@
 | [Ayu Dark](https://github.com/adnan-malik-26/obsidian-ayu-dark) | Dark | `adnan-malik-26/obsidian-ayu-dark` |
 | [Ayu Mirage](https://github.com/bcdavasconcelos/Obsidian-Ayu_Mirage) | Dark | `bcdavasconcelos/Obsidian-Ayu_Mirage` |
 | [Ayu Palette](https://github.com/iodic/obsidian-ayu-theme) | Dark / Light | `iodic/obsidian-ayu-theme` |
+| [Azeroth](https://github.com/shaktoth/WoW-Warcraft-UI-Obsidian-Theme) | Dark / Light | `shaktoth/WoW-Warcraft-UI-Obsidian-Theme` |
+| [Azulejo Brutalism](https://github.com/verticalheretic/azulejo-brutalism-obsidian) | Dark / Light | `verticalheretic/azulejo-brutalism-obsidian` |
 | [Azure](https://github.com/annagracedev/obsidian-azure) | Dark / Light | `annagracedev/obsidian-azure` |
 
 ## B
@@ -78,40 +100,66 @@
 | Theme | Modes | Repo |
 |-------|-------|------|
 | [Bamboo China](https://github.com/miaoziguan/obsidian-bamboo-china) | Dark / Light | `miaoziguan/obsidian-bamboo-china` |
+| [Basalt](https://github.com/joostmbakker/obsidian-basalt) | Dark / Light | `joostmbakker/obsidian-basalt` |
 | [Base16](https://github.com/snelling-a/obsidian-base16) | Dark / Light | `snelling-a/obsidian-base16` |
 | [Base16 Default Dark](https://github.com/flowing-abyss/obsidian-base16-default-dark) | Dark | `flowing-abyss/obsidian-base16-default-dark` |
 | [Base2Tone](https://github.com/deathau/Base2Tone-For-Obsidian.md) | Dark | `deathau/Base2Tone-For-Obsidian.md` |
-| [Baseline](https://github.com/aaaaalexis/obsidian-baseline) | Dark / Light | `aaaaalexis/obsidian-baseline` |
+| [Baseline](https://github.com/svnaxis/obsidian-baseline) | Dark / Light | `svnaxis/obsidian-baseline` |
+| [Bear Style](https://github.com/cherishh/obsidian-bear-style) | Light | `cherishh/obsidian-bear-style` |
+| [Bee](https://github.com/nachitoe/Bee-Obsidian-Theme) | Dark / Light | `nachitoe/Bee-Obsidian-Theme` |
 | [Behave dark](https://github.com/chrismettal/Obsidian-Behave-dark) | Dark | `chrismettal/Obsidian-Behave-dark` |
 | [Biggs](https://github.com/briancbiggs/biggs-obsidian-theme) | Dark / Light | `briancbiggs/biggs-obsidian-theme` |
+| [Bircharoo](https://github.com/mattbirchler/bircharoo) | Dark / Light | `mattbirchler/bircharoo` |
 | [Black](https://github.com/b3h3m0th/black-obsidian-theme) | Dark | `b3h3m0th/black-obsidian-theme` |
+| [Black Amethyst](https://github.com/josecosta-gh/Black-Amethyst) | Dark | `josecosta-gh/Black-Amethyst` |
 | [Black and White](https://github.com/wulflo/obsidian-BlackAndWhite) | Dark / Light | `wulflo/obsidian-BlackAndWhite` |
+| [Black Pink](https://github.com/florafan-cs/obsidian-black-pink) | Light | `florafan-cs/obsidian-black-pink` |
 | [Blackbird](https://github.com/vanadium23/obsidian-blackbird-theme) | Dark | `vanadium23/obsidian-blackbird-theme` |
+| [Blade Runner](https://github.com/ducktapekiller/blade-runner) | Dark / Light | `ducktapekiller/blade-runner` |
+| [Bliss](https://github.com/itsjusthaif/obsidian-bliss) | Dark / Light | `itsjusthaif/obsidian-bliss` |
 | [blobob](https://github.com/kazi-aidah/blobob) | Dark / Light | `kazi-aidah/blobob` |
 | [Blood Rush](https://github.com/incantatem2/Obsidian-blood-rush) | Dark | `incantatem2/Obsidian-blood-rush` |
 | [Blossom](https://github.com/blossomtheme/Obsidian) | Dark | `blossomtheme/Obsidian` |
 | [Blue Ribbon](https://github.com/kaymade/blue-ribbon) | Dark / Light | `kaymade/blue-ribbon` |
 | [Blue Topaz](https://github.com/pkm-er/Blue-Topaz_Obsidian-css) | Dark / Light | `pkm-er/Blue-Topaz_Obsidian-css` |
 | [Blur](https://github.com/jawuj/Blur-Theme) | Dark | `jawuj/Blur-Theme` |
+| [Bog Oak](https://github.com/lavemile02-afk/Bog-Oak_Theme-for-Obsidian) | Dark / Light | `lavemile02-afk/Bog-Oak_Theme-for-Obsidian` |
 | [Bolt](https://github.com/bluemoondragon07/Obsidian-Bolt) | Dark / Light | `bluemoondragon07/Obsidian-Bolt` |
+| [Book and Quill](https://github.com/smit4450/book-and-quill-theme) | Dark / Light | `smit4450/book-and-quill-theme` |
+| [Bordeaux](https://github.com/creativemindrito/bordeaux-theme-obsidian) | Dark | `creativemindrito/bordeaux-theme-obsidian` |
 | [Border](https://github.com/akifyss/obsidian-border) | Dark / Light | `akifyss/obsidian-border` |
 | [Borealis](https://github.com/juanchiparra/obsidian-borealis) | Dark / Light | `juanchiparra/obsidian-borealis` |
+| [Borozdov](https://github.com/borozdov/obsidian-borozdov) | Dark / Light | `borozdov/obsidian-borozdov` |
+| [Borozdov Console](https://github.com/borozdov-obsidian-themes/console) | Dark / Light | `borozdov-obsidian-themes/console` |
+| [Borozdov Ember](https://github.com/borozdov-obsidian-themes/ember) | Dark / Light | `borozdov-obsidian-themes/ember` |
+| [Borozdov Gallery](https://github.com/borozdov-obsidian-themes/gallery) | Dark / Light | `borozdov-obsidian-themes/gallery` |
+| [Borozdov Palette](https://github.com/borozdov-obsidian-themes/palette) | Dark / Light | `borozdov-obsidian-themes/palette` |
+| [Borozdov Sprout](https://github.com/borozdov-obsidian-themes/sprout) | Dark / Light | `borozdov-obsidian-themes/sprout` |
+| [Borozdov Trellis](https://github.com/borozdov-obsidian-themes/trellis) | Dark / Light | `borozdov-obsidian-themes/trellis` |
+| [Borozdov Utility](https://github.com/borozdov-obsidian-themes/utility) | Dark / Light | `borozdov-obsidian-themes/utility` |
 | [Bossidian](https://github.com/bosselijah/bossidian) | Dark | `bosselijah/bossidian` |
 | [Brainhack](https://github.com/spekulucius/obsidian-brainhack) | Light / Dark | `spekulucius/obsidian-brainhack` |
 | [Brutal Gum](https://github.com/moyf/obsidian-gumroad-theme) | Dark / Light | `moyf/obsidian-gumroad-theme` |
 | [BrutalGarden](https://github.com/rustam-aka-rust/obsidian-brutalgarden) | Dark / Light | `rustam-aka-rust/obsidian-brutalgarden` |
 | [Brutalism](https://github.com/abrahambahez/Brutalism) | Dark / Light | `abrahambahez/Brutalism` |
 | [Brutalist](https://github.com/ducktapekiller/Brutalist) | Dark / Light | `ducktapekiller/Brutalist` |
+| [Brutato](https://github.com/draivika/brutato) | Dark / Light | `draivika/brutato` |
+| [Buba](https://github.com/opus721/obsidian-buba-theme) | Dark / Light | `opus721/obsidian-buba-theme` |
 | [Buena Vista](https://github.com/oqipodev/buena-vista-obsidian) | Dark / Light | `oqipodev/buena-vista-obsidian` |
 | [Buisson](https://github.com/adriusops/buisson-obsidian) | Dark / Light | `adriusops/buisson-obsidian` |
 | [Bumblebee](https://github.com/kulysocc/obsidian-bumblebee) | Dark / Light | `kulysocc/obsidian-bumblebee` |
 | [Bureau](https://github.com/sonophage/Bureau) | Dark | `sonophage/Bureau` |
+| [Byrcen Breathe](https://github.com/byrcen/byrcen-breathe) | Dark / Light | `byrcen/byrcen-breathe` |
 
 ## C
 
 | Theme | Modes | Repo |
 |-------|-------|------|
+| [caffeine](https://github.com/oomniss/caffeine-obsidian-theme) | Dark / Light | `oomniss/caffeine-obsidian-theme` |
+| [Cairn](https://github.com/iblinkq/cairn-theme) | Dark / Light | `iblinkq/cairn-theme` |
 | [Cajafuerte](https://github.com/areajoerda/CAJAFUERTE) | Dark | `areajoerda/CAJAFUERTE` |
+| [Calliope](https://github.com/asterism0s/calliope) | Dark / Light | `asterism0s/calliope` |
+| [Calm Matters](https://github.com/manueldelgado/calm-matters) | Dark / Light | `manueldelgado/calm-matters` |
 | [calm nights](https://github.com/yejun-exe/calm-nights) | Dark | `yejun-exe/calm-nights` |
 | [Camena](https://github.com/splendidissimemendax/Camena) | Dark / Light | `splendidissimemendax/Camena` |
 | [Canvas And Cargo](https://github.com/relks-00/Canvas-And-Cargo) | Dark / Light | `relks-00/Canvas-And-Cargo` |
@@ -129,16 +177,22 @@
 | [Charcoal](https://github.com/bcdavasconcelos/Obsidian-Charcoal) | Dark | `bcdavasconcelos/Obsidian-Charcoal` |
 | [cheers](https://github.com/jdjshhc/cheers) | Dark / Light | `jdjshhc/cheers` |
 | [chiaroscuroflow](https://github.com/quinta0/chiaroscuroflow) | Light / Dark | `quinta0/chiaroscuroflow` |
-| [Cinderpaper](https://github.com/adnan0-im/Obisidian_Cinderpaper) | Dark / Light | `adnan0-im/Obisidian_Cinderpaper` |
+| [Cinderpaper](https://github.com/adnan0-im/Cinderpaper) | Dark / Light | `adnan0-im/Cinderpaper` |
 | [Circuit](https://github.com/cosmicseafox/Circuit) | Dark / Light | `cosmicseafox/Circuit` |
 | [Citrus Neo](https://github.com/gthelding/obsidian-citrus-neo) | Dark / Light | `gthelding/obsidian-citrus-neo` |
+| [City Pop](https://github.com/dlsdgj/citypop) | Dark / Light | `dlsdgj/citypop` |
 | [Claude](https://github.com/arun-gajaraj/claude-theme-for-obsidian) | Dark | `arun-gajaraj/claude-theme-for-obsidian` |
 | [Claude Code Orange](https://github.com/kleokl7/Claude-Code-Obsidian-Theme) | Dark / Light | `kleokl7/Claude-Code-Obsidian-Theme` |
 | [Claude Cream](https://github.com/tttnny/obsidian-claude-cream) | Light | `tttnny/obsidian-claude-cream` |
 | [Claude Notes](https://github.com/timagestuff/Claude-Notes) | Light | `timagestuff/Claude-Notes` |
 | [Claude Paper](https://github.com/law-of-cycles/claude-paper-obsidian) | Dark / Light | `law-of-cycles/claude-paper-obsidian` |
+| [Claude Synapse](https://github.com/nunomotaricardo/obsidian-claude-synapse-theme) | Dark / Light | `nunomotaricardo/obsidian-claude-synapse-theme` |
 | [Claude Warm](https://github.com/amm10090/claude-warm-obsidian-theme) | Dark / Light | `amm10090/claude-warm-obsidian-theme` |
+| [Claude.md](https://github.com/2chevskii/obsidian-theme-claudemd) | Dark / Light | `2chevskii/obsidian-theme-claudemd` |
+| [Claudian](https://github.com/yishentu/claudian-theme) | Dark / Light | `yishentu/claudian-theme` |
 | [Clawdia](https://github.com/theshield2594/clawdia-obsidian-theme) | Dark / Light | `theshield2594/clawdia-obsidian-theme` |
+| [Clear Contrast HC](https://github.com/dariuszgal/clear-contrast-hc) | Dark | `dariuszgal/clear-contrast-hc` |
+| [Cloudy Moon](https://github.com/landscronar/obsidian-cloudy-moon) | Dark | `landscronar/obsidian-cloudy-moon` |
 | [Cobalt Peacock](https://github.com/dpavaoman/cobalt-peacock-obmd) | Dark | `dpavaoman/cobalt-peacock-obmd` |
 | [Cocoa Nook](https://github.com/tttt-k/obsidian-cocoa-nook) | Dark / Light | `tttt-k/obsidian-cocoa-nook` |
 | [CodeAzur](https://github.com/orvpagadua/Code-Azur) | Dark | `orvpagadua/Code-Azur` |
@@ -155,29 +209,35 @@
 | [Composed](https://github.com/zjie-wang/obsidian-composed) | Light | `zjie-wang/obsidian-composed` |
 | [Composer](https://github.com/vran-dev/obsidian-composer) | Dark / Light | `vran-dev/obsidian-composer` |
 | [Consolas](https://github.com/pinei/obsidian-consolas-theme) | Dark | `pinei/obsidian-consolas-theme` |
+| [Copper Rose](https://github.com/ramenofficialgovpatsy/Copper-Rose) | Dark / Light | `ramenofficialgovpatsy/Copper-Rose` |
 | [Cordyceps](https://github.com/frank-pw/cordyceps) | Dark / Light | `frank-pw/cordyceps` |
+| [Cortex](https://github.com/lowki2/obsidian-cortex-theme) | Dark / Light | `lowki2/obsidian-cortex-theme` |
 | [Cosmic](https://github.com/kaymade/cosmic) | Dark / Light | `kaymade/cosmic` |
 | [Cosmic Events](https://github.com/gopeshkachhadiya/Cosmic-Events) | Dark | `gopeshkachhadiya/Cosmic-Events` |
 | [Cosmical](https://github.com/m-torrus/obsidian-cosmical-theme) | Dark / Light | `m-torrus/obsidian-cosmical-theme` |
+| [Cosmos](https://github.com/mariomile/obsidian-cosmos-theme) | Dark | `mariomile/obsidian-cosmos-theme` |
+| [Countryside-Dark-Claude](https://github.com/peter-squentz/obsidian-countryside-dark-claude) | Dark | `peter-squentz/obsidian-countryside-dark-claude` |
+| [Countryside-Dark-Grok](https://github.com/peter-squentz/obsidian-countryside-dark-grok) | Dark | `peter-squentz/obsidian-countryside-dark-grok` |
 | [Covert](https://github.com/schrunchee/obsidian-covert-theme) | Dark | `schrunchee/obsidian-covert-theme` |
-| [Cozy Journal](https://github.com/omshirse/obsidian_cozy_journal) | Dark / Light | `omshirse/obsidian_cozy_journal` |
-| [Crafted](https://github.com/seyhunak/CraftedObsidianTheme) | Dark / Light | `seyhunak/CraftedObsidianTheme` |
-| [cranky goblin](https://github.com/incantatem2/Obsidian-cranky-goblin) | Dark | `incantatem2/Obsidian-cranky-goblin` |
+| [Cozy Journal](https://github.com/omkarshirse/obsidian_cozy_journal) | Dark / Light | `omkarshirse/obsidian_cozy_journal` |
 | [Creme brulee](https://github.com/anareaty/creme-brulee-obsidian-theme) | Dark / Light | `anareaty/creme-brulee-obsidian-theme` |
 | [Crestfall](https://github.com/code-alchemist-dev/obsidian-crestfall) | Dark | `code-alchemist-dev/obsidian-crestfall` |
-| [Cupertino](https://github.com/aaaaalexis/obsidian-cupertino) | Dark / Light | `aaaaalexis/obsidian-cupertino` |
+| [Cupertino](https://github.com/svnaxis/obsidian-cupertino) | Dark / Light | `svnaxis/obsidian-cupertino` |
 | [Cyber](https://github.com/alex-yelisieiev/cyber-obsidian) | Dark | `alex-yelisieiev/cyber-obsidian` |
 | [Cyber Glow](https://github.com/thepharaohart/Obsidian-CyberGlow) | Dark / Light | `thepharaohart/Obsidian-CyberGlow` |
 | [CyberGlow](https://github.com/devm0nk3y/CyberGlow) | Dark | `devm0nk3y/CyberGlow` |
 | [Cybertron](https://github.com/nickmilo/Cybertron) | Dark | `nickmilo/Cybertron` |
+| [Cybertron 3](https://github.com/igor2c/cybertron-3) | Dark | `igor2c/cybertron-3` |
 | [Cybertron Shifted](https://github.com/jorgedmundo/cybertron-shifted) | Dark | `jorgedmundo/cybertron-shifted` |
 | [cybrcore](https://github.com/cybrcore/cybr-obsidian) | Dark | `cybrcore/cybr-obsidian` |
+| [Cyriform](https://github.com/cyriusweng/cyriform-theme) | Dark / Light | `cyriusweng/cyriform-theme` |
 
 ## D
 
 | Theme | Modes | Repo |
 |-------|-------|------|
 | [Daily Press](https://github.com/preval85/obsidian-daily-press) | Dark / Light | `preval85/obsidian-daily-press` |
+| [Damascene](https://github.com/k7aleds8/damask) | Dark / Light | `k7aleds8/damask` |
 | [Danxia](https://github.com/haopenglau/obsidian-danxia-theme) | Dark / Light | `haopenglau/obsidian-danxia-theme` |
 | [Dark Castle](https://github.com/scottgriv/Dark-Castle-Obsidian) | Dark | `scottgriv/Dark-Castle-Obsidian` |
 | [Dark Clarity](https://github.com/chenbihao/obsidian-theme-dark-clarity) | Dark / Light | `chenbihao/obsidian-theme-dark-clarity` |
@@ -192,23 +252,24 @@
 | [dashboard](https://github.com/incantatem2/Obsidian-dashboard) | Light | `incantatem2/Obsidian-dashboard` |
 | [Dawn](https://github.com/ds-package/Dawn) | Dark / Light | `ds-package/Dawn` |
 | [Dayspring](https://github.com/erykwalder/dayspring-theme) | Light | `erykwalder/dayspring-theme` |
+| [DDLC](https://github.com/rokokol/ddlc-obsidian-theme) | Dark / Light | `rokokol/ddlc-obsidian-theme` |
 | [Dedication](https://github.com/modigaphemelo/Dedication-obsidian-theme) | Dark / Light | `modigaphemelo/Dedication-obsidian-theme` |
 | [Dedication 2](https://github.com/modigaphemelo/Dedication-2-Obsidian-Theme) | Dark / Light | `modigaphemelo/Dedication-2-Obsidian-Theme` |
 | [Deep Space Glass](https://github.com/lclaboissiere-oss/deep-space-glass) | Dark / Light | `lclaboissiere-oss/deep-space-glass` |
 | [deep submerge](https://github.com/incantatem2/Obsidian-deep-submerge) | Dark | `incantatem2/Obsidian-deep-submerge` |
 | [deeper work](https://github.com/lucas-fern/obsidian-deeper-work-theme) | Dark | `lucas-fern/obsidian-deeper-work-theme` |
 | [Deepfield](https://github.com/nbost130/deepfield) | Dark / Light | `nbost130/deepfield` |
-| [Default+](https://github.com/otaviocc/default-plus-obsidian) | Dark | `otaviocc/default-plus-obsidian` |
 | [Dekurai](https://github.com/sergey900553/obsidian_dekurai_theme) | Dark | `sergey900553/obsidian_dekurai_theme` |
 | [Delightful](https://github.com/kylesnav/obsidian-delightful) | Dark / Light | `kylesnav/obsidian-delightful` |
 | [Densy](https://github.com/eugenesvk/Obsidian-Densy) | Light | `eugenesvk/Obsidian-Densy` |
 | [Desert](https://github.com/squitoey/obsidian-desert) | Dark / Light | `squitoey/obsidian-desert` |
+| [Deskmate](https://github.com/lykantonio/obsidian-deskmate) | Dark / Light | `lykantonio/obsidian-deskmate` |
 | [Desserts](https://github.com/incantatem2/Obsidian-desserts) | Dark / Light | `incantatem2/Obsidian-desserts` |
 | [Diagrammo Slate](https://github.com/demian0311/obsidian-slate) | Dark / Light | `demian0311/obsidian-slate` |
 | [DIDADI](https://github.com/fyaic/DIDADI-obsidian-theme) | Dark / Light | `fyaic/DIDADI-obsidian-theme` |
 | [Digital Rust](https://github.com/katsuricata/Obsidian-Digital-Rust) | Dark | `katsuricata/Obsidian-Digital-Rust` |
 | [Discordian](https://github.com/radekkozak/discordian) | Dark | `radekkozak/discordian` |
-| [Dissociated IdentiTea](https://github.com/7eahaus/dissociated-identitea) | Dark / Light | `7eahaus/dissociated-identitea` |
+| [Dishonored - Dunwall](https://github.com/abdullahhasan42/dishonored-dunwall-theme) | Dark / Light | `abdullahhasan42/dishonored-dunwall-theme` |
 | [Docgen](https://github.com/iammaxim/obsidian-docgen-theme) | Dark / Light | `iammaxim/obsidian-docgen-theme` |
 | [Dracula + LYT](https://github.com/xryul/ObsidianMD_Dracula_x_LYT) | Dark | `xryul/ObsidianMD_Dracula_x_LYT` |
 | [Dracula for Obsidian](https://github.com/jarodise/Dracula-for-Obsidian.md) | Dark | `jarodise/Dracula-for-Obsidian.md` |
@@ -216,6 +277,7 @@
 | [Dracula Official](https://github.com/dracula/obsidian) | Dark | `dracula/obsidian` |
 | [Dracula Plus](https://github.com/saket61195/Dracula_obsidian_theme) | Dark | `saket61195/Dracula_obsidian_theme` |
 | [Dracula Slim](https://github.com/blackwew/Dracula-Slim) | Dark | `blackwew/Dracula-Slim` |
+| [DrosmazTheme](https://github.com/drosmaz/DrosmazTheme) | Dark | `drosmaz/DrosmazTheme` |
 | [Duality](https://github.com/cascadethemes/Duality) | Dark / Light | `cascadethemes/Duality` |
 | [Dune](https://github.com/jopp-gh/Obsidian-Dune84) | Dark / Light | `jopp-gh/Obsidian-Dune84` |
 | [Dunite](https://github.com/ch0live/dunite) | Dark / Light | `ch0live/dunite` |
@@ -225,8 +287,10 @@
 
 | Theme | Modes | Repo |
 |-------|-------|------|
+| [E-ink](https://github.com/matteoandradeboschi/e-ink) | Dark / Light | `matteoandradeboschi/e-ink` |
 | [Ebullientworks](https://github.com/ebullient/obsidian-theme-ebullientworks) | Dark / Light | `ebullient/obsidian-theme-ebullientworks` |
 | [Ecdysis](https://github.com/kodamachameleon/Ecdysis) | Dark | `kodamachameleon/Ecdysis` |
+| [Ef Maris Dark](https://github.com/spwx/obsidian-ef-maris-dark) | Dark | `spwx/obsidian-ef-maris-dark` |
 | [Eldritch](https://github.com/eldritch-theme/obsidian) | Dark | `eldritch-theme/obsidian` |
 | [Electrocution](https://github.com/monapdx/Electrocution) | Dark / Light | `monapdx/Electrocution` |
 | [Elegance](https://github.com/victologo/elegance-theme) | Dark / Light | `victologo/elegance-theme` |
@@ -241,12 +305,18 @@
 | [EMRALD](https://github.com/admiral9k/emrald-obsidian-theme) | Dark / Light | `admiral9k/emrald-obsidian-theme` |
 | [Enchanted](https://github.com/enchantedcoloring/obsidian) | Dark / Light | `enchantedcoloring/obsidian` |
 | [Encore](https://github.com/carbonateb/obsidian-encore-theme) | Dark / Light | `carbonateb/obsidian-encore-theme` |
+| [EncorePpuccin](https://github.com/jaskaran-sethy/obsidian-encoreppuccin) | Dark / Light | `jaskaran-sethy/obsidian-encoreppuccin` |
+| [Energetic Matcha](https://github.com/ramenofficialgovpatsy/Energetic-Matcha) | Dark / Light | `ramenofficialgovpatsy/Energetic-Matcha` |
 | [Engineering](https://github.com/cosmicseafox/Engineering) | Dark / Light | `cosmicseafox/Engineering` |
+| [Engineering Notebook](https://github.com/theluckystrike/notemods-theme-engineering-notebook) | Dark / Light | `theluckystrike/notemods-theme-engineering-notebook` |
 | [Enhanced Canvas](https://github.com/jimcsuen/Enhanced-Canvas-Theme-for-Obsidian) | Dark | `jimcsuen/Enhanced-Canvas-Theme-for-Obsidian` |
 | [Enhanced file explorer tree](https://github.com/lennzone/enhanced-file-explorer-tree) | Dark / Light | `lennzone/enhanced-file-explorer-tree` |
 | [Esther Inspired](https://github.com/lisitan/esther-obsidian-typora-themes) | Dark / Light | `lisitan/esther-obsidian-typora-themes` |
+| [Et Cetera](https://github.com/kuberrr0/obsidian-et-cetera) | Dark / Light | `kuberrr0/obsidian-et-cetera` |
+| [Ethereal](https://github.com/dyse-sofqi/Ethereal) | Dark / Light | `dyse-sofqi/Ethereal` |
 | [Ethereon](https://github.com/ethereontheme/obsidian) | Dark / Light | `ethereontheme/obsidian` |
 | [evangelion](https://github.com/xero/evangelion.obsidian) | Dark | `xero/evangelion.obsidian` |
+| [Event Horizon](https://github.com/nachiket273/obsidian-event-horizon) | Dark | `nachiket273/obsidian-event-horizon` |
 | [Everblush](https://github.com/everblush/Obsidian) | Dark | `everblush/Obsidian` |
 | [Everforest](https://github.com/0xglitchbyte/obsidian_everforest) | Dark / Light | `0xglitchbyte/obsidian_everforest` |
 | [Everforest Clarity](https://github.com/ziangchen7/obsidian-everforest-clarity) | Dark / Light | `ziangchen7/obsidian-everforest-clarity` |
@@ -263,26 +333,36 @@
 |-------|-------|------|
 | [Faded](https://github.com/joshkasap/Obsidian-Faded-Theme) | Dark | `joshkasap/Obsidian-Faded-Theme` |
 | [Fancy-a-Story](https://github.com/elsatam/obsidian-fancy-a-story) | Dark / Light | `elsatam/obsidian-fancy-a-story` |
+| [Fantasy](https://github.com/especialkim/obsidian-theme-fantasy) | Dark / Light | `especialkim/obsidian-theme-fantasy` |
 | [FastPpuccin](https://github.com/lostviking09/obsidian-fastppuccin) | Dark / Light | `lostviking09/obsidian-fastppuccin` |
 | [Feather](https://github.com/zfmohammed/obsidian-feather) | Dark | `zfmohammed/obsidian-feather` |
+| [Finding Aid](https://github.com/theluckystrike/notemods-theme-finding-aid) | Dark / Light | `theluckystrike/notemods-theme-finding-aid` |
 | [Firefly](https://github.com/lazercaveman/obsidian-firefly-theme) | Dark | `lazercaveman/obsidian-firefly-theme` |
+| [Firelight](https://github.com/ridusaini/obsidian-firelight) | Dark / Light | `ridusaini/obsidian-firelight` |
+| [Fireplace](https://github.com/sspaeti/obsidian_fireplace) | Dark / Light | `sspaeti/obsidian_fireplace` |
 | [Fjord](https://github.com/jshuntley/fjord-obsidian) | Dark | `jshuntley/fjord-obsidian` |
 | [Flamingo Noir](https://github.com/jackmort/flamingo-noir) | Dark / Light | `jackmort/flamingo-noir` |
 | [flexcyon](https://github.com/bladeacer/flexcyon) | Dark / Light | `bladeacer/flexcyon` |
 | [Flexoki](https://github.com/kepano/flexoki-obsidian) | Dark / Light | `kepano/flexoki-obsidian` |
 | [Flexoki Warm](https://github.com/ofalvai/flexoki-warm) | Dark / Light | `ofalvai/flexoki-warm` |
+| [FlipArt86](https://github.com/gstoneflip722/obsidian-theme-flipart86) | Dark | `gstoneflip722/obsidian-theme-flipart86` |
 | [Flynt](https://github.com/flynt-theme/flynt-obsidian) | Dark / Light | `flynt-theme/flynt-obsidian` |
 | [Focus](https://github.com/mprojectscode/obsidian-focus-theme) | Dark | `mprojectscode/obsidian-focus-theme` |
-| [Folio](https://github.com/elijahchan2019/obsidian-folio-theme) | Dark / Light | `elijahchan2019/obsidian-folio-theme` |
+| [Foggy Sage Glass](https://github.com/vis-halv/foggy_sage_glass-obsidian) | Light | `vis-halv/foggy_sage_glass-obsidian` |
+| [Fokus](https://github.com/ike-v/obsidian-fokus) | Dark / Light | `ike-v/obsidian-fokus` |
+| [Folio](https://github.com/elijah7x/theme-folio) | Dark / Light | `elijah7x/theme-folio` |
 | [Football Notes](https://github.com/fyaic/Football-Obsidian-Theme) | Dark / Light | `fyaic/Football-Obsidian-Theme` |
+| [Foreglow](https://github.com/foreglow/obsidian) | Dark / Light | `foreglow/obsidian` |
 | [Forest Phosphor](https://github.com/steven-theuerl/forest-phosphor-obsidian) | Dark | `steven-theuerl/forest-phosphor-obsidian` |
 | [ForestRest](https://github.com/fengmz/ForestRest) | Dark / Light | `fengmz/ForestRest` |
 | [Forgotten Golden Sanctuary](https://github.com/cosmicseafox/Forgotten-Golden-Sanctuary) | Dark / Light | `cosmicseafox/Forgotten-Golden-Sanctuary` |
 | [Foundation](https://github.com/cosmicseafox/foundation) | Dark / Light | `cosmicseafox/foundation` |
+| [Fox Suite](https://github.com/bojordan/obsidian-fox-suite) | Dark / Light | `bojordan/obsidian-fox-suite` |
 | [Framer](https://github.com/theviviana/Obsidian-Theme-Framer) | Dark / Light | `theviviana/Obsidian-Theme-Framer` |
 | [FreeColors](https://github.com/erulmu/freecolors) | Light / Dark | `erulmu/freecolors` |
 | [Frost](https://github.com/drkpxl/Frost) | Dark / Light | `drkpxl/Frost` |
 | [Frozen Kingdom](https://github.com/sto3iv/obsidian-fancy-a-story-frozen) | Dark / Light | `sto3iv/obsidian-fancy-a-story-frozen` |
+| [Frutiger](https://github.com/gelogonza/frutiger-obsidian-theme) | Dark / Light | `gelogonza/frutiger-obsidian-theme` |
 | [Fusion](https://github.com/zamsyt/obsidian-fusion) | Dark / Light | `zamsyt/obsidian-fusion` |
 | [Future](https://github.com/bluemoondragon07/obsidian-future) | Dark / Light | `bluemoondragon07/obsidian-future` |
 
@@ -290,23 +370,31 @@
 
 | Theme | Modes | Repo |
 |-------|-------|------|
+| [Gallery Marginalia](https://github.com/theluckystrike/notemods-theme-gallery-marginalia) | Dark / Light | `theluckystrike/notemods-theme-gallery-marginalia` |
 | [Garden Gnome (Adwaita, GTK)](https://github.com/oqipodev/garden-gnome-obsidian) | Dark / Light | `oqipodev/garden-gnome-obsidian` |
 | [Gastown](https://github.com/dogwaddle/obsidian-gastown-theme.md) | Light | `dogwaddle/obsidian-gastown-theme.md` |
 | [GDCT](https://github.com/bcdavasconcelos/Obsidian-GDCT) | Light | `bcdavasconcelos/Obsidian-GDCT` |
 | [GDCT Dark](https://github.com/bcdavasconcelos/Obsidian-GDCT_Dark) | Dark | `bcdavasconcelos/Obsidian-GDCT_Dark` |
 | [GeoCities 98](https://github.com/b1rdmania/obsidian-geocities-98) | Dark / Light | `b1rdmania/obsidian-geocities-98` |
 | [Geode Black Opal](https://github.com/cosmicseafox/Geode-Black-Opal) | Dark / Light | `cosmicseafox/Geode-Black-Opal` |
+| [Ginnungagap](https://github.com/shaktoth/Ginnungagap-Obsidian-Theme) | Dark | `shaktoth/Ginnungagap-Obsidian-Theme` |
 | [GitHub Dark Dimmed](https://github.com/rgormley/obsidian-github-dark-dimmed) | Dark | `rgormley/obsidian-github-dark-dimmed` |
+| [GitHub Flavored Markdown](https://github.com/tofrankie/obsidian-theme-gfm) | Dark / Light | `tofrankie/obsidian-theme-gfm` |
 | [GitHub Theme](https://github.com/krios2146/obsidian-theme-github) | Dark / Light | `krios2146/obsidian-theme-github` |
 | [GitHubDHC](https://github.com/scottkirvan/GitHubDHC) | Dark | `scottkirvan/GitHubDHC` |
-| [Gitsidian](https://github.com/ismailgunacar/gitsidian) | Dark / Light | `ismailgunacar/gitsidian` |
+| [Gitsidian](https://github.com/noodleron/gitsidian) | Dark / Light | `noodleron/gitsidian` |
+| [Glacial Bloom](https://github.com/w-o-debian/glacial-bloom) | Dark / Light | `w-o-debian/glacial-bloom` |
 | [Glass Robo](https://github.com/lorens-osman-dev/Glass-Robo) | Dark / Light | `lorens-osman-dev/Glass-Robo` |
-| [Glass Scholar](https://github.com/sidny1988/Glass-Scholar) | Dark / Light | `sidny1988/Glass-Scholar` |
+| [Glass Shelf](https://github.com/ummbition/glass-shelf-theme) | Dark / Light | `ummbition/glass-shelf-theme` |
+| [Glassive](https://github.com/flyingfolder/obsidian-glassive) | Dark / Light | `flyingfolder/obsidian-glassive` |
 | [Glassmind](https://github.com/m3hransh/glassmind-obsidian-theme) | Dark / Light | `m3hransh/glassmind-obsidian-theme` |
+| [gogoga](https://github.com/jackweigogoga/gogoga-theme) | Dark / Light | `jackweigogoga/gogoga-theme` |
 | [Golden Topaz](https://github.com/shaggyfeng/obsidian-Golden-Topaz-theme) | Dark / Light | `shaggyfeng/obsidian-Golden-Topaz-theme` |
 | [Gothic](https://github.com/highway-wu/obsidian-gothic) | Dark / Light | `highway-wu/obsidian-gothic` |
+| [Graphite Island Spectrum](https://github.com/jenlybein/obsidian-graphite-island-spectrum) | Dark / Light | `jenlybein/obsidian-graphite-island-spectrum` |
 | [Green Holiday](https://github.com/masa-sumimoto/green-holiday) | Light / Dark | `masa-sumimoto/green-holiday` |
 | [Green Nightmare](https://github.com/prradox/green-nightmare) | Dark | `prradox/green-nightmare` |
+| [Grill](https://github.com/theadamdanielsson/grill-theme) | Dark / Light | `theadamdanielsson/grill-theme` |
 | [Grounded Tierra](https://github.com/adelaidasofia/obsidian-grounded-tierra) | Dark / Light | `adelaidasofia/obsidian-grounded-tierra` |
 | [Gruber Darker](https://github.com/aduneer/gruber-darker-obsidian) | Dark / Light | `aduneer/gruber-darker-obsidian` |
 | [Gummy-Revived](https://github.com/winnerwind/gummy-revived) | Dark / Light | `winnerwind/gummy-revived` |
@@ -316,46 +404,67 @@
 | Theme | Modes | Repo |
 |-------|-------|------|
 | [H2 OS](https://github.com/elijah7x/theme-h2os) | Light | `elijah7x/theme-h2os` |
+| [Hackpuntes](https://github.com/javierolmedo/obsidian-hackpuntes-theme) | Dark / Light | `javierolmedo/obsidian-hackpuntes-theme` |
 | [Hackthebox](https://github.com/golam71/obsidian-hackthebox) | Dark / Light | `golam71/obsidian-hackthebox` |
 | [halcyon](https://github.com/dbarenholz/halcyon-obsidian) | Dark | `dbarenholz/halcyon-obsidian` |
 | [Half-Life](https://github.com/saucy/obsidian-half-life-theme) | Dark | `saucy/obsidian-half-life-theme` |
+| [Halftone](https://github.com/ducktapekiller/halftone) | Dark / Light | `ducktapekiller/halftone` |
 | [Hanabi](https://github.com/hanabi-works/hanabi-theme) | Dark / Light | `hanabi-works/hanabi-theme` |
 | [Handwriting (Kalam)](https://github.com/kmranrg/obsidian-handwriting-theme) | Light | `kmranrg/obsidian-handwriting-theme` |
+| [Hanko](https://github.com/mdoroszewski/obsidian-hanko) | Dark / Light | `mdoroszewski/obsidian-hanko` |
 | [Happy Coding](https://github.com/oneprogramador/ObsidianCodingTheme) | Dark / Light | `oneprogramador/ObsidianCodingTheme` |
 | [Harbor-dark](https://github.com/lucciano-re/Harbor-dark) | Dark | `lucciano-re/Harbor-dark` |
 | [Harmonic](https://github.com/thiews/Obsidian-Harmonic) | Dark / Light | `thiews/Obsidian-Harmonic` |
+| [Harvest](https://github.com/raccoon-overlord-dev/obsidian-harvest-theme) | Dark / Light | `raccoon-overlord-dev/obsidian-harvest-theme` |
 | [HearthCode](https://github.com/hearth-code/hearthcode-obsidian) | Dark / Light | `hearth-code/hearthcode-obsidian` |
 | [Heboric](https://github.com/nhrrs/heboric-obsidian) | Light / Dark | `nhrrs/heboric-obsidian` |
 | [Hidden Grotto](https://github.com/hotandcold245/Hidden-Grotto) | Dark / Light | `hotandcold245/Hidden-Grotto` |
+| [Hidontknow](https://github.com/hidontknow/obsidian-theme-hidontknow) | Dark / Light | `hidontknow/obsidian-theme-hidontknow` |
 | [Higlighter](https://github.com/lukauskas/obsidian-highlighter-theme) | Light | `lukauskas/obsidian-highlighter-theme` |
 | [Hipstersmoothie](https://github.com/hipstersmoothie/hipstersmoothie-obsidian-theme) | Dark | `hipstersmoothie/hipstersmoothie-obsidian-theme` |
+| [Hive](https://github.com/ptxmac/Hive-Obsidian-Theme) | Dark / Light | `ptxmac/Hive-Obsidian-Theme` |
 | [Hojicha](https://github.com/pr0methevs/Hojicha) | Dark | `pr0methevs/Hojicha` |
+| [Honey Sky](https://github.com/florafan-cs/obsidian-honey-sky) | Dark / Light | `florafan-cs/obsidian-honey-sky` |
+| [Horo](https://github.com/kuingsmile/horo_ob_theme) | Dark / Light | `kuingsmile/horo_ob_theme` |
 | [HoverPopup](https://github.com/cogqod/hoverpopup-obsidian-theme) | Dark | `cogqod/hoverpopup-obsidian-theme` |
+| [HTB HUD](https://github.com/number-zero/obsidian-htb-hud) | Dark | `number-zero/obsidian-htb-hud` |
 | [Hulk](https://github.com/pgalliford/Obsidian-theme-Incredible-Hulk) | Dark | `pgalliford/Obsidian-theme-Incredible-Hulk` |
 | [Hydra Pressure](https://github.com/monoooki/obsidian-hydra-pressure-theme) | Dark / Light | `monoooki/obsidian-hydra-pressure-theme` |
 | [Hyo](https://github.com/evielync/hyo-theme) | Dark / Light | `evielync/hyo-theme` |
+| [Hyperion](https://github.com/gokayburuc/Hyperion) | Dark | `gokayburuc/Hyperion` |
+| [Hyperspace](https://github.com/apokalypsis89/hyperspace-obsidian) | Dark | `apokalypsis89/hyperspace-obsidian` |
 
 ## I
 
 | Theme | Modes | Repo |
 |-------|-------|------|
 | [iA Writer](https://github.com/mrowa44/obsidian-ia-writer) | Dark / Light | `mrowa44/obsidian-ia-writer` |
+| [IA Writer Mint Noir Mobile](https://github.com/julez122/IA-Writer-Mint-Noir-Mobile) | Dark / Light | `julez122/IA-Writer-Mint-Noir-Mobile` |
 | [iB Writer](https://github.com/whereiswhere/iB-Writer) | Dark / Light | `whereiswhere/iB-Writer` |
 | [Iceberg](https://github.com/izumin5210/obsidian-iceberg) | Dark | `izumin5210/obsidian-iceberg` |
+| [ICOR for Life - INKLINE](https://github.com/myicor/icor-for-life-inkline) | Dark / Light | `myicor/icor-for-life-inkline` |
+| [Ignorance](https://github.com/ignorance-shiyao/obsidian-ignorance) | Dark / Light | `ignorance-shiyao/obsidian-ignorance` |
 | [Improved Potato](https://github.com/dmeurer/improved-potato) | Dark / Light | `dmeurer/improved-potato` |
+| [Incident Review](https://github.com/theluckystrike/notemods-theme-incident-review) | Dark / Light | `theluckystrike/notemods-theme-incident-review` |
 | [Infosecwarrior UI](https://github.com/infosecwarrior/Infosecwarrior-UI) | Dark / Light | `infosecwarrior/Infosecwarrior-UI` |
 | [Ink](https://github.com/harmtemolder/obsidian-ink) | Light | `harmtemolder/obsidian-ink` |
 | [Ink Paper](https://github.com/dsvictor/Ink-Paper) | Dark / Light | `dsvictor/Ink-Paper` |
+| [Inkblade](https://github.com/xwtaidev/obsidian-inkblade-theme) | Dark / Light | `xwtaidev/obsidian-inkblade-theme` |
+| [Inkstone](https://github.com/bufan1024/obsidian-inkstone) | Light | `bufan1024/obsidian-inkstone` |
+| [Inlay](https://github.com/brightwav3/obsidian-inlay) | Dark / Light | `brightwav3/obsidian-inlay` |
 | [ion](https://github.com/zamsyt/obsidian-ion) | Dark | `zamsyt/obsidian-ion` |
 | [Iridium](https://github.com/kyffa/Iridium) | Dark / Light | `kyffa/Iridium` |
 | [Isinglass](https://github.com/ameyxd/obsidian-isinglass) | Dark / Light | `ameyxd/obsidian-isinglass` |
 | [Islands](https://github.com/bulat-beltone/obsidian-islands-theme) | Dark / Light | `bulat-beltone/obsidian-islands-theme` |
+| [Istari](https://github.com/thescholium/istari) | Dark | `thescholium/istari` |
 | [ITS Theme](https://github.com/slrvb/Obsidian--ITS-Theme) | Dark / Light | `slrvb/Obsidian--ITS-Theme` |
+| [Ivory Garden](https://github.com/w-o-debian/ivory-garden) | Dark / Light | `w-o-debian/ivory-garden` |
 
 ## J
 
 | Theme | Modes | Repo |
 |-------|-------|------|
+| [JetBrains ThinkRail](https://github.com/khaister/obsidian-jetbrains-thinkrail) | Dark / Light | `khaister/obsidian-jetbrains-thinkrail` |
 | [Jolly Holly](https://github.com/incantatem2/Obsidian-jolly-holly) | Dark | `incantatem2/Obsidian-jolly-holly` |
 | [Jotter](https://github.com/lnbgc/obsidian-jotter) | Dark / Light | `lnbgc/obsidian-jotter` |
 
@@ -371,8 +480,12 @@
 | [Kanagawa Palette](https://github.com/kmkkiii/obsidian-kanagawa-theme) | Dark / Light | `kmkkiii/obsidian-kanagawa-theme` |
 | [Kanagawa Paper](https://github.com/sspaeti/obsidian_kanagawa_paper) | Dark / Light | `sspaeti/obsidian_kanagawa_paper` |
 | [Kanagawa Tide](https://github.com/inovector/obsidian-kanagawa-tide) | Dark / Light | `inovector/obsidian-kanagawa-tide` |
+| [Kanso](https://github.com/friesentius/obsidian-kanso) | Dark / Light | `friesentius/obsidian-kanso` |
 | [Karadigm](https://github.com/lukokaravan-cloud/karadigm) | Dark / Light | `lukokaravan-cloud/karadigm` |
+| [Keyline](https://github.com/badtobad/obsidian-keyline) | Dark / Light | `badtobad/obsidian-keyline` |
+| [Khazaf](https://github.com/isltanx/obsidian-khazaf) | Dark / Light | `isltanx/obsidian-khazaf` |
 | [Kiwi Mono](https://github.com/c-sooyoung/kiwi-mono-obsidian-theme) | Dark / Light | `c-sooyoung/kiwi-mono-obsidian-theme` |
+| [Konban](https://github.com/ashotis/konban) | Dark / Light | `ashotis/konban` |
 | [Kurokula](https://github.com/indyandie/kurokula-obsidian-theme) | Dark | `indyandie/kurokula-obsidian-theme` |
 | [KXC Cipher](https://github.com/kxc-korthcore/obsidian-kxc-cipher) | Dark | `kxc-korthcore/obsidian-kxc-cipher` |
 
@@ -382,8 +495,11 @@
 |-------|-------|------|
 | [Lagom](https://github.com/leslyecream/Lagom-Obsidian-Theme) | Dark / Light | `leslyecream/Lagom-Obsidian-Theme` |
 | [Lancer-OS](https://github.com/shaktoth/LancerOS-Obsidian-Theme) | Dark | `shaktoth/LancerOS-Obsidian-Theme` |
+| [Lanternwood](https://github.com/davidhurtadoai/lanternwood) | Dark / Light | `davidhurtadoai/lanternwood` |
 | [Lapfly](https://github.com/johncattrall/obsidian-lapfly) | Dark / Light | `johncattrall/obsidian-lapfly` |
+| [Lareia](https://github.com/ybraz/lareia-theme) | Dark / Light | `ybraz/lareia-theme` |
 | [LaTeX](https://github.com/benf2004/Obsidian-LaTeX-Theme) | Dark / Light | `benf2004/Obsidian-LaTeX-Theme` |
+| [Lathe](https://github.com/ymolodtsov/obsidian-lathe) | Dark / Light | `ymolodtsov/obsidian-lathe` |
 | [Latsidian](https://github.com/howardzhangdqs/Latsidian) | Dark / Light | `howardzhangdqs/Latsidian` |
 | [LatteLogic](https://github.com/kinn00kinn/LatteLogic) | Dark / Light | `kinn00kinn/LatteLogic` |
 | [Lavender-Mist](https://github.com/quinta0/Lavender-Mist) | Light | `quinta0/Lavender-Mist` |
@@ -391,16 +507,22 @@
 | [Lectern](https://github.com/papaya2k/obsidian-lectern-theme) | Dark / Light | `papaya2k/obsidian-lectern-theme` |
 | [Lemons Theme](https://github.com/mprojectscode/obsidian-lemons-theme) | Dark | `mprojectscode/obsidian-lemons-theme` |
 | [LessWrong](https://github.com/outsidetext/lesswrong-obsidian) | Dark / Light | `outsidetext/lesswrong-obsidian` |
+| [Lexmechanic](https://github.com/orpheus-21/lexmechanic-theme) | Dark / Light | `orpheus-21/lexmechanic-theme` |
+| [Lick](https://github.com/beingbrendan/Lick) | Dark / Light | `beingbrendan/Lick` |
+| [Lifein](https://github.com/ichris007/Lifein-theme) | Dark / Light | `ichris007/Lifein-theme` |
 | [Light & Bright](https://github.com/bluemoondragon07/obsidian-light-and-bright-theme) | Dark / Light | `bluemoondragon07/obsidian-light-and-bright-theme` |
 | [LikeXP](https://github.com/usero2/obsidian-themes-LikeXP) | Dark / Light | `usero2/obsidian-themes-LikeXP` |
+| [Liquid Glass](https://github.com/xumintian/obsidian-liquid-glass) | Dark / Light | `xumintian/obsidian-liquid-glass` |
 | [Listive](https://github.com/efemkay/obsidian-listive-theme) | Dark / Light | `efemkay/obsidian-listive-theme` |
 | [Litos](https://github.com/zerokei/Litos) | Dark / Light | `zerokei/Litos` |
+| [Living Code](https://github.com/living-code-theme/obsidian) | Dark / Light | `living-code-theme/obsidian` |
 | [Lizardmen Zettelkasten](https://github.com/dogwaddle/lizardmen-zettelkasten) | Light | `dogwaddle/lizardmen-zettelkasten` |
 | [Lockett](https://github.com/martinlockett/obsidian_theme) | Dark / Light | `martinlockett/obsidian_theme` |
 | [Lorens](https://github.com/lorens-osman-dev/Lorens-Obsidian-Theme) | Dark | `lorens-osman-dev/Lorens-Obsidian-Theme` |
 | [Love](https://github.com/wulflo/obsidian-Amor) | Dark / Light | `wulflo/obsidian-Amor` |
 | [Lucy](https://github.com/gabrielbacha/Obsidian-Lucy) | Dark / Light | `gabrielbacha/Obsidian-Lucy` |
 | [Lumen](https://github.com/stephanteig/obsidian-lumen) | Dark | `stephanteig/obsidian-lumen` |
+| [Lumen Docs](https://github.com/beta-zheng/lumen-docs) | Dark / Light | `beta-zheng/lumen-docs` |
 | [Lumen Glass](https://github.com/paddychenc75/obsidian-lumen) | Dark / Light | `paddychenc75/obsidian-lumen` |
 | [Lumin](https://github.com/yixuan-space/obsidian-lumin) | Dark / Light | `yixuan-space/obsidian-lumin` |
 | [Lumines](https://github.com/danielkhmara/obsidian-lumines) | Dark / Light | `danielkhmara/obsidian-lumines` |
@@ -413,8 +535,10 @@
 | [macOS](https://github.com/stefan-imbesi/obsidian-macos-theme) | Dark / Light | `stefan-imbesi/obsidian-macos-theme` |
 | [macOS Tahoe](https://github.com/alex-yelisieiev/macos-tahoe-obsidian) | Dark / Light | `alex-yelisieiev/macos-tahoe-obsidian` |
 | [MagicUser](https://github.com/drbap/magicuser-theme-for-obsidian) | Dark / Light | `drbap/magicuser-theme-for-obsidian` |
+| [Majesty](https://github.com/ramenofficialgovpatsy/Majesty) | Dark / Light | `ramenofficialgovpatsy/Majesty` |
 | [Makinda](https://github.com/makindajack/makinda-obsidian) | Dark / Light | `makindajack/makinda-obsidian` |
 | [Mammoth](https://github.com/wittionary/mammoth-obsidian-theme) | Dark | `wittionary/mammoth-obsidian-theme` |
+| [Manifold](https://github.com/vibecodertoolkit/obsidian-manifold) | Dark / Light | `vibecodertoolkit/obsidian-manifold` |
 | [Maple](https://github.com/subframe7536/obsidian-theme-maple) | Dark / Light | `subframe7536/obsidian-theme-maple` |
 | [Marathon](https://github.com/spekulucius/obsidian-marathon) | Dark / Light | `spekulucius/obsidian-marathon` |
 | [March](https://github.com/sakurastral/obsidian-march-theme) | Dark / Light | `sakurastral/obsidian-march-theme` |
@@ -424,54 +548,82 @@
 | [Material Gruvbox](https://github.com/alljavi/material_gruvbox_obsidian) | Dark / Light | `alljavi/material_gruvbox_obsidian` |
 | [Material Ocean](https://github.com/dragonwocky/obsidian-material-ocean) | Dark | `dragonwocky/obsidian-material-ocean` |
 | [Matrix](https://github.com/dubefab/Matrix) | Dark | `dubefab/Matrix` |
+| [Matsuba](https://github.com/ishixi233/shittori-obsidian) | Dark / Light | `ishixi233/shittori-obsidian` |
+| [Memphis](https://github.com/dlsdgj/obsidian-Memphis-theme) | Dark / Light | `dlsdgj/obsidian-Memphis-theme` |
+| [Memphis Suite](https://github.com/dlsdgj/Memphis-Suite) | Dark / Light | `dlsdgj/Memphis-Suite` |
 | [Meridian](https://github.com/mvahaste/meridian) | Dark / Light | `mvahaste/meridian` |
+| [Merry Christmas](https://github.com/mack-yilman/obsidian-merry-christmas) | Dark / Light | `mack-yilman/obsidian-merry-christmas` |
 | [Mia](https://github.com/playerofgames/obsidian-mia-theme) | Dark / Light | `playerofgames/obsidian-mia-theme` |
 | [Miami Wind](https://github.com/hanakin/miami-wind-obsidian-theme) | Dark | `hanakin/miami-wind-obsidian-theme` |
 | [Micro Mike](https://github.com/thisthethe/MicroMike) | Dark | `thisthethe/MicroMike` |
+| [Midnight Fjord Black](https://github.com/driftcowl/midnight-fjord-black) | Dark | `driftcowl/midnight-fjord-black` |
+| [Midnight Store](https://github.com/dlsdgj/Midnight-Store) | Dark / Light | `dlsdgj/Midnight-Store` |
+| [Midnight Studio](https://github.com/marcimotoo/midnight-studio-obsidian) | Dark | `marcimotoo/midnight-studio-obsidian` |
 | [Midnight-Fjord](https://github.com/quinta0/Midnight-Fjord) | Dark | `quinta0/Midnight-Fjord` |
 | [Milk Tea](https://github.com/artemislin/obsidian-milk-tea-theme) | Dark / Light | `artemislin/obsidian-milk-tea-theme` |
+| [Mimir](https://github.com/bittanaycha/obsidian-mimir-theme) | Dark / Light | `bittanaycha/obsidian-mimir-theme` |
+| [minilite](https://github.com/jrayas/minilite) | Dark / Light | `jrayas/minilite` |
+| [minilite-flat](https://github.com/jrayas/minilite-flat) | Dark / Light | `jrayas/minilite-flat` |
 | [Minimal](https://github.com/kepano/obsidian-minimal) | Dark / Light | `kepano/obsidian-minimal` |
 | [Minimal Dracula](https://github.com/druxorey/minimal-dracula-for-obsidian) | Dark / Light | `druxorey/minimal-dracula-for-obsidian` |
 | [Minimal Edge](https://github.com/hariiy-sys/Obsidian-Minimal-Edge) | Dark / Light | `hariiy-sys/Obsidian-Minimal-Edge` |
 | [Minimal Red](https://github.com/afonsomiranda02/MinimalRed-Obsidian-Theme) | Dark | `afonsomiranda02/MinimalRed-Obsidian-Theme` |
 | [Minimal-Dark-Coder](https://github.com/krishna-sen-programming-world/Minimal-Dark-Coder) | Dark | `krishna-sen-programming-world/Minimal-Dark-Coder` |
 | [Minimalist Studio](https://github.com/david-troyer/obsidian-theme-minimalist-studio) | Dark / Light | `david-troyer/obsidian-theme-minimalist-studio` |
+| [MinimalistK](https://github.com/miqueiasklippel/minimalistk) | Dark / Light | `miqueiasklippel/minimalistk` |
 | [Minimalists Paradise](https://github.com/bellebasso/Minimalists-Paradise) | Dark / Light | `bellebasso/Minimalists-Paradise` |
 | [Mint-Breeze](https://github.com/quinta0/Mint-Breeze) | Light | `quinta0/Mint-Breeze` |
 | [Misty](https://github.com/perinchiang/obsidian-misty-theme) | Dark / Light | `perinchiang/obsidian-misty-theme` |
 | [MistyMauve](https://github.com/ravesplash/obsidian-misty-mauve) | Dark / Light | `ravesplash/obsidian-misty-mauve` |
+| [MIT Dark](https://github.com/mit-bach/mit-dark) | Dark | `mit-bach/mit-dark` |
+| [Modern Amiga Workbench 1.3 inspired](https://github.com/anthonyfitzpatrick/obsidian-theme-inspired-by-amiga-workbench-1.3) | Dark / Light | `anthonyfitzpatrick/obsidian-theme-inspired-by-amiga-workbench-1.3` |
+| [Modern Amiga Workbench 2.04 inspired](https://github.com/anthonyfitzpatrick/obsidian-theme-inspired-by-amiga-workbench-2.04) | Dark / Light | `anthonyfitzpatrick/obsidian-theme-inspired-by-amiga-workbench-2.04` |
+| [Modern Amiga Workbench 3.1 inspired](https://github.com/anthonyfitzpatrick/obsidian-theme-inspired-by-amiga-workbench-3.1) | Dark / Light | `anthonyfitzpatrick/obsidian-theme-inspired-by-amiga-workbench-3.1` |
 | [Modern Dark](https://github.com/roberts-code/obsidian-theme-modern-dark) | Dark | `roberts-code/obsidian-theme-modern-dark` |
 | [Modern GenZ Vibedose](https://github.com/omkar-4/Modern-GenZ-Vibedose) | Dark / Light | `omkar-4/Modern-GenZ-Vibedose` |
+| [Mokume](https://github.com/kluesn/obsidian-mokume) | Dark / Light | `kluesn/obsidian-mokume` |
 | [MoLan](https://github.com/czunique/obsidian-molan) | Dark / Light | `czunique/obsidian-molan` |
+| [Momiji Autumn](https://github.com/na7kaaaa/japanese-autumn-obsidian-theme) | Dark / Light | `na7kaaaa/japanese-autumn-obsidian-theme` |
 | [Monkey King](https://github.com/leapsurge/Monkey-King) | Dark / Light | `leapsurge/Monkey-King` |
 | [mono black (monochrome, charcoal)](https://github.com/zechartiahsaher/obsidian-mono-black) | Dark | `zechartiahsaher/obsidian-mono-black` |
 | [Mono High Contrast](https://github.com/manuelcoca/obsidian-mono-high-contrast-theme) | Dark / Light | `manuelcoca/obsidian-mono-high-contrast-theme` |
 | [monochroYOU](https://github.com/guimar10/monochroYou) | Dark / Light | `guimar10/monochroYou` |
 | [MonoGray](https://github.com/jmj-eo/obsidian-monogray) | Light | `jmj-eo/obsidian-monogray` |
 | [Monokai](https://github.com/bitschleuder/obsidian-monokai-theme) | Dark / Light | `bitschleuder/obsidian-monokai-theme` |
+| [Monokai Pro Octagon](https://github.com/tallvincent/monokai-pro-octagon-obsidian) | Dark | `tallvincent/monokai-pro-octagon-obsidian` |
 | [Monokai Ristretto](https://github.com/vinitkumar/monokai-ristretto-obsidian) | Dark | `vinitkumar/monokai-ristretto-obsidian` |
 | [Monokai Syntax](https://github.com/darkings/Obsidian-MonokaiSyntax) | Dark / Light | `darkings/Obsidian-MonokaiSyntax` |
 | [monokai-filtersun-spectrum](https://github.com/soldni/monokai-filtersun-spectrum) | Dark / Light | `soldni/monokai-filtersun-spectrum` |
+| [Monolith](https://github.com/ahmedashraafmohamed-hash/Monolith) | Dark / Light | `ahmedashraafmohamed-hash/Monolith` |
+| [Monolith Terminal](https://github.com/davindakhrisna/terminal-theme) | Dark | `davindakhrisna/terminal-theme` |
 | [Monospace Dark](https://github.com/pearcepunisher/monospace-obsidian) | Dark | `pearcepunisher/monospace-obsidian` |
 | [Moonlight](https://github.com/kartik-karz/moonlight-obsidian) | Dark / Light | `kartik-karz/moonlight-obsidian` |
+| [Moonpetal](https://github.com/slasto/Moonpetal) | Dark / Light | `slasto/Moonpetal` |
+| [Moonshade](https://github.com/ibridd/moonshade) | Dark | `ibridd/moonshade` |
+| [Morandi](https://github.com/xwtaidev/obsidian-morandi-theme) | Dark / Light | `xwtaidev/obsidian-morandi-theme` |
 | [MoreMonoColor](https://github.com/alanfgn/obsidian-more-mono-color) | Dark / Light | `alanfgn/obsidian-more-mono-color` |
+| [Mounty](https://github.com/sonlndv/Mounty) | Dark / Light | `sonlndv/Mounty` |
+| [MoYun](https://github.com/yayii/obsidian-moyun-theme) | Dark / Light | `yayii/obsidian-moyun-theme` |
 | [Mulled Wine](https://github.com/incantatem2/Obsidian-mulled-wine) | Dark / Light | `incantatem2/Obsidian-mulled-wine` |
 | [MultiMuse](https://github.com/tea0s/MultiMuse-Theme) | Dark / Light | `tea0s/MultiMuse-Theme` |
 | [Museifu Basic](https://github.com/account-not-relevant/museifu-basic-theme) | Dark / Light | `account-not-relevant/museifu-basic-theme` |
 | [Mushin](https://github.com/vlad3design/Mushin) | Dark / Light | `vlad3design/Mushin` |
 | [Muted-Blue](https://github.com/hasanthesyrian/Muted-Blue-Obsidian) | Dark | `hasanthesyrian/Muted-Blue-Obsidian` |
-| [myICOR INKLINE](https://github.com/myicor/inkline-obsidian) | Dark / Light | `myicor/inkline-obsidian` |
+| [MuYun](https://github.com/garrettfynn/obsidian-muyun) | Dark / Light | `garrettfynn/obsidian-muyun` |
 | [Myst](https://github.com/mulder3062/Myst) | Dark / Light | `mulder3062/Myst` |
 
 ## N
 
 | Theme | Modes | Repo |
 |-------|-------|------|
+| [N2O Paper](https://github.com/n2osync/n2o-paper) | Light | `n2osync/n2o-paper` |
 | [Nebula](https://github.com/devmandalia/Nebula) | Dark / Light | `devmandalia/Nebula` |
 | [Nebulux](https://github.com/sikoso774/Nebulux) | Dark | `sikoso774/Nebulux` |
 | [Neo](https://github.com/x0aa7i/obsidian-neo) | Dark / Light | `x0aa7i/obsidian-neo` |
 | [Neo Sploosh](https://github.com/monoooki/obsidian-neo-sploosh-theme) | Dark / Light | `monoooki/obsidian-neo-sploosh-theme` |
+| [Neobrutalism](https://github.com/lennzone/Neobrutalism) | Light | `lennzone/Neobrutalism` |
 | [Neon Acid](https://github.com/monapdx/Neon-Acid) | Dark | `monapdx/Neon-Acid` |
+| [Neon Amber Glass](https://github.com/khedrub/neon-amber-glass) | Dark | `khedrub/neon-amber-glass` |
 | [Neon Dracula](https://github.com/scbrown/neon-dracula-obsidian) | Dark | `scbrown/neon-dracula-obsidian` |
 | [Neon Dreams](https://github.com/guilhermetagliati/neon-dreams-obsidian-theme) | Dark / Light | `guilhermetagliati/neon-dreams-obsidian-theme` |
 | [Neon Night](https://github.com/sto3iv/Neon-Night) | Dark / Light | `sto3iv/Neon-Night` |
@@ -479,18 +631,25 @@
 | [Neonflux](https://github.com/laddtnov/Neonflux) | Dark / Light | `laddtnov/Neonflux` |
 | [Neovim](https://github.com/slavafyi/obsidian-neovim) | Dark / Light | `slavafyi/obsidian-neovim` |
 | [nerv](https://github.com/ethanthatonekid/obsidian-nerv) | Dark / Light | `ethanthatonekid/obsidian-nerv` |
+| [Netrunner](https://github.com/ahmadalkfri/netrunner-obsidian) | Dark | `ahmadalkfri/netrunner-obsidian` |
 | [NeuBorder](https://github.com/sq1000000/NeuBorder) | Light / Dark | `sq1000000/NeuBorder` |
 | [Neumorphism](https://github.com/lennzone/Neumorphism) | Dark / Light | `lennzone/Neumorphism` |
 | [Neutral Academia](https://github.com/incantatem2/Obsidian-neutral-academia) | Dark / Light | `incantatem2/Obsidian-neutral-academia` |
+| [Newspaper](https://github.com/mladenpr/Newspaper) | Dark / Light | `mladenpr/Newspaper` |
+| [Newsprint](https://github.com/ibehren1/obsidian-newsprint-theme) | Dark / Light | `ibehren1/obsidian-newsprint-theme` |
+| [Newsprint by Camus](https://github.com/camusz11/obsidian-newsprint) | Dark / Light | `camusz11/obsidian-newsprint` |
+| [Nibble](https://github.com/n3xtb1te/Nibble) | Dark / Light | `n3xtb1te/Nibble` |
 | [NichNeumor](https://github.com/nichtigott/NichNeumor) | Dark / Light | `nichtigott/NichNeumor` |
 | [Nier](https://github.com/exloseur3d/nier-theme) | Dark | `exloseur3d/nier-theme` |
+| [Night Owl Classic](https://github.com/mspirek/night-owl-classic) | Dark | `mspirek/night-owl-classic` |
 | [Night Owl Native](https://github.com/huydnd/night-owl-obsidian-theme) | Dark | `huydnd/night-owl-obsidian-theme` |
 | [Night Ridge](https://github.com/joshua-walls/night-ridge-theme) | Dark / Light | `joshua-walls/night-ridge-theme` |
+| [Night404](https://github.com/404mon/Night404) | Dark / Light | `404mon/Night404` |
 | [Nightfox](https://github.com/markmacode/obsidian-nightfox) | Dark / Light | `markmacode/obsidian-nightfox` |
 | [Nightingale](https://github.com/frank0713/nightingale-obsidian) | Dark | `frank0713/nightingale-obsidian` |
 | [Nightly Wolf](https://github.com/codejota/NightlyWolf_ObsidianTheme) | Dark / Light | `codejota/NightlyWolf_ObsidianTheme` |
 | [nobb](https://github.com/buluw/nobb-obsidian) | Dark | `buluw/nobb-obsidian` |
-| [Noctilux](https://github.com/rastgame/obsidian-Noctilux) | Dark | `rastgame/obsidian-Noctilux` |
+| [Noctilux](https://github.com/rqxsts/obsidian-Noctilux) | Dark | `rqxsts/obsidian-Noctilux` |
 | [Noctis](https://github.com/konnta0/obsidian-noctis-theme) | Dark | `konnta0/obsidian-noctis-theme` |
 | [Noctis Family](https://github.com/baylesj/obsidian-noctis-family) | Dark / Light | `baylesj/obsidian-noctis-family` |
 | [Noctis Viola](https://github.com/konnta0/obsidian-noctis-viola-theme) | Dark | `konnta0/obsidian-noctis-viola-theme` |
@@ -506,11 +665,10 @@
 | [Nothing](https://github.com/dashedman/obsidian-nothing-theme) | Dark | `dashedman/obsidian-nothing-theme` |
 | [Notion Style](https://github.com/chonnz/obsidian-notion-style) | Dark / Light | `chonnz/obsidian-notion-style` |
 | [NotSwift](https://github.com/davidjroos/obsidian-notswift) | Dark / Light | `davidjroos/obsidian-notswift` |
-| [Nott Dagr](https://github.com/asgardehs/nott-dagr-obsidian) | Dark / Light | `asgardehs/nott-dagr-obsidian` |
-| [Nous](https://github.com/islgl/nous-obsidian-theme) | Dark / Light | `islgl/nous-obsidian-theme` |
 | [Nous Research](https://github.com/nilederg/Obsidian-Nous-Research-Theme) | Dark / Light | `nilederg/Obsidian-Nous-Research-Theme` |
 | [Novadust](https://github.com/mmartamg/novadust-obsidian) | Dark | `mmartamg/novadust-obsidian` |
 | [Novel](https://github.com/toniim/obsidian-novel-theme) | Dark / Light | `toniim/obsidian-novel-theme` |
+| [Nox Aeterna](https://github.com/white0dry/obsidian-nox-aeterna) | Dark | `white0dry/obsidian-nox-aeterna` |
 | [Nu Ayu](https://github.com/mrparalloid/nu-ayu) | Dark / Light | `mrparalloid/nu-ayu` |
 | [NuxPrism Midnight](https://github.com/jasonqg26/NuxPrism-Midnight) | Dark | `jasonqg26/NuxPrism-Midnight` |
 | [Nyan](https://github.com/kubixservice/obsidian-nyan-theme) | Dark / Light | `kubixservice/obsidian-nyan-theme` |
@@ -520,9 +678,10 @@
 
 | Theme | Modes | Repo |
 |-------|-------|------|
-| [Oat Latte](https://github.com/giselle-tr/Oat-Latte-Theme-Obsidian) | Dark / Light | `giselle-tr/Oat-Latte-Theme-Obsidian` |
+| [Oat Latte](https://github.com/giselle-tr/Oat-Latte) | Dark / Light | `giselle-tr/Oat-Latte` |
 | [OB Everforest](https://github.com/smoosex/ob-everforest) | Dark / Light | `smoosex/ob-everforest` |
 | [ObOrange](https://github.com/kkdove2011/ObOrange) | Dark / Light | `kkdove2011/ObOrange` |
+| [Oboro](https://github.com/player-muteki/oboro) | Dark / Light | `player-muteki/oboro` |
 | [Obsdn-Dark-Rmx](https://github.com/cannibalox/Obsdn-dark-rmx) | Dark / Light | `cannibalox/Obsdn-dark-rmx` |
 | [Obsiddy-In Terminal](https://github.com/leonjacobs-collab/obsidian-terminal-theme) | Dark / Light | `leonjacobs-collab/obsidian-terminal-theme` |
 | [Obsidian Boom](https://github.com/sainadhx/obsidian-boom) | Light | `sainadhx/obsidian-boom` |
@@ -533,28 +692,37 @@
 | [Obsidianite](https://github.com/bennyxguo/Obsidian-Obsidianite) | Dark | `bennyxguo/Obsidian-Obsidianite` |
 | [Obsidianotion](https://github.com/diegoeis/obsidianotion) | Dark / Light | `diegoeis/obsidianotion` |
 | [Obuntu](https://github.com/dmytrodubinin/Obuntu-theme-for-Obsidian) | Dark / Light | `dmytrodubinin/Obuntu-theme-for-Obsidian` |
+| [Octavo](https://github.com/jiuxianzai/obsidian-theme-octavo) | Dark / Light | `jiuxianzai/obsidian-theme-octavo` |
+| [OINK Terminal](https://github.com/l0rnwizd7/oink-obsidian) | Dark / Light | `l0rnwizd7/oink-obsidian` |
 | [OISTNB](https://github.com/omsandippatil/OISTNB) | Dark / Light | `omsandippatil/OISTNB` |
 | [Okudagram](https://github.com/jalad25/Okudagram) | Dark | `jalad25/Okudagram` |
 | [Old World](https://github.com/double-tilde/old-world-obsidian) | Dark | `double-tilde/old-world-obsidian` |
 | [Oldsidian Purple](https://github.com/ltctceplrm/oldsidian-purple) | Dark | `ltctceplrm/oldsidian-purple` |
 | [OLED.Black](https://github.com/inc44/OLED.Black) | Dark | `inc44/OLED.Black` |
 | [Olivier’s Theme](https://github.com/olivierps/Olivier-s-Theme) | Dark / Light | `olivierps/Olivier-s-Theme` |
+| [Omarchy](https://github.com/sonlndv/obsidian-omarchy-theme) | Dark / Light | `sonlndv/obsidian-omarchy-theme` |
+| [Omarchy Tokyo Night](https://github.com/quanru/obsidian-omarchy-tokyo-night) | Dark / Light | `quanru/obsidian-omarchy-tokyo-night` |
 | [Omega](https://github.com/omegacentauri68/Omega-Theme-for-Obsidian) | Dark | `omegacentauri68/Omega-Theme-for-Obsidian` |
+| [Omnia Ex Machina](https://github.com/tuliopc23/omnia-ex-machina) | Dark / Light | `tuliopc23/omnia-ex-machina` |
 | [One Dark Pro](https://github.com/w4t4r/obsidian-one-dark-pro) | Dark | `w4t4r/obsidian-one-dark-pro` |
+| [One Half Dark](https://github.com/overjoyde/obsidian-one-half-dark) | Dark | `overjoyde/obsidian-one-half-dark` |
 | [One Oracle Developer](https://github.com/jkvetina/obsidian-one-oracle-developer) | Dark / Light | `jkvetina/obsidian-one-oracle-developer` |
 | [OneNice](https://github.com/sunhaloo/OneNice) | Dark / Light | `sunhaloo/OneNice` |
+| [OnePage](https://github.com/ivaneye/OnePage) | Dark / Light | `ivaneye/OnePage` |
 | [Ono Sendai](https://github.com/cannibalox/ono-sendai_obsdn) | Dark / Light | `cannibalox/ono-sendai_obsdn` |
 | [Opal](https://github.com/cyriusweng/opal-theme) | Dark / Light | `cyriusweng/opal-theme` |
 | [Opendian](https://github.com/elijah7x/theme-opendian) | Dark / Light | `elijah7x/theme-opendian` |
 | [Opus](https://github.com/opus-oss/obsidian-opus) | Dark / Light | `opus-oss/obsidian-opus` |
 | [Orange](https://github.com/afrangi/Obsidian-Theme-Orange) | Dark / Light | `afrangi/Obsidian-Theme-Orange` |
 | [Orange Book Cloth](https://github.com/surprisedduck/obsidian-orange-book-cloth) | Dark | `surprisedduck/obsidian-orange-book-cloth` |
+| [Ordo](https://github.com/lubriedev/ordo) | Dark / Light | `lubriedev/ordo` |
 | [Oreo](https://github.com/carols12352/Oreo-theme) | Light / Dark | `carols12352/Oreo-theme` |
 | [Origami](https://github.com/7368697661/Origami) | Dark / Light | `7368697661/Origami` |
 | [Origin](https://github.com/bluemoondragon07/Obsidian-Origin) | Dark / Light | `bluemoondragon07/Obsidian-Origin` |
 | [Osaka Jade](https://github.com/sspaeti/obsidian_osaka_jade) | Dark / Light | `sspaeti/obsidian_osaka_jade` |
 | [Oscura](https://github.com/vinitkumar/oscura-obsidian) | Dark | `vinitkumar/oscura-obsidian` |
 | [Ouroboros](https://github.com/lemon695/obsidian-theme-ouroboros) | Dark / Light | `lemon695/obsidian-theme-ouroboros` |
+| [Overworld](https://github.com/dubefab/obsidian-Overworld) | Dark / Light | `dubefab/obsidian-Overworld` |
 | [Owen Graphite](https://github.com/towishy/Owen-Graphite) | Dark / Light | `towishy/Owen-Graphite` |
 | [Oxygen](https://github.com/davidvkimball/obsidian-oxygen) | Dark / Light | `davidvkimball/obsidian-oxygen` |
 
@@ -565,12 +733,19 @@
 | [Palenight](https://github.com/nnniv/palenight.obsidian) | Dark | `nnniv/palenight.obsidian` |
 | [Panda Syntax](https://github.com/linyanna/panda-syntax-obsidian) | Dark / Light | `linyanna/panda-syntax-obsidian` |
 | [Panic Mode](https://github.com/bcdavasconcelos/Obsidian-Panic_Mode) | Dark | `bcdavasconcelos/Obsidian-Panic_Mode` |
+| [Panorama](https://github.com/magmabits/Panorama-Theme) | Dark / Light | `magmabits/Panorama-Theme` |
+| [Paper Blue](https://github.com/jaylinwang/paper-blue) | Dark / Light | `jaylinwang/paper-blue` |
 | [Paper Ember](https://github.com/eonewg/paper-ember) | Dark / Light | `eonewg/paper-ember` |
-| [Paper Source](https://github.com/brightwav3/obsidian-paper-source-theme) | Dark / Light | `brightwav3/obsidian-paper-source-theme` |
+| [Paper feel](https://github.com/raccoon-overlord-dev/obsidian-paper-theme) | Dark / Light | `raccoon-overlord-dev/obsidian-paper-theme` |
+| [Paper Source](https://github.com/brightwav3/Paper-Source) | Dark / Light | `brightwav3/Paper-Source` |
+| [paper-lite](https://github.com/jrayas/paper-lite) | Dark / Light | `jrayas/paper-lite` |
 | [Paperglow](https://github.com/cloudy-liu/Paperglow-Theme) | Dark / Light | `cloudy-liu/Paperglow-Theme` |
+| [PaperK](https://github.com/miqueiasklippel/obsidian-theme-paperk) | Dark / Light | `miqueiasklippel/obsidian-theme-paperk` |
+| [Paperline](https://github.com/candrapradipa/obsidian-paperline) | Dark / Light | `candrapradipa/obsidian-paperline` |
 | [Papyrus Nox](https://github.com/bkindler/papyrus-nox) | Dark | `bkindler/papyrus-nox` |
 | [Pastel Dusk](https://github.com/surprisedduck/obsidian-pastel-dusk) | Dark / Light | `surprisedduck/obsidian-pastel-dusk` |
 | [Pastel-Yumekawa](https://github.com/noi8282/obsidian-Pastel-Yumekawa-Theme) | Light | `noi8282/obsidian-Pastel-Yumekawa-Theme` |
+| [Pastello](https://github.com/raccoon-overlord-dev/obsidian-pastello-theme) | Dark / Light | `raccoon-overlord-dev/obsidian-pastello-theme` |
 | [Pensea](https://github.com/y15865708228-pixel/pensea-theme) | Light / Dark | `y15865708228-pixel/pensea-theme` |
 | [Penumbra](https://github.com/jbisits/penumbra-obsidian-theme) | Dark / Light | `jbisits/penumbra-obsidian-theme` |
 | [Perch](https://github.com/bewater8066/obsidian-theme-perch) | Dark / Light | `bewater8066/obsidian-theme-perch` |
@@ -580,6 +755,7 @@
 | [Phosphor](https://github.com/johanviberg/obsidian-phosphor) | Dark / Light | `johanviberg/obsidian-phosphor` |
 | [Phosphor CRT](https://github.com/jaminbrazil2/phosphor-crt) | Dark / Light | `jaminbrazil2/phosphor-crt` |
 | [Phosphor-Mono](https://github.com/willn-dev/Phosphor-Mono) | Dark | `willn-dev/Phosphor-Mono` |
+| [Phycat](https://github.com/sumruler/obsidian-theme-phycat) | Dark / Light | `sumruler/obsidian-theme-phycat` |
 | [Pine Forest Berry](https://github.com/nilahn/pine_forest_berry) | Dark / Light | `nilahn/pine_forest_berry` |
 | [Pink Muted Rose](https://github.com/50tech50style/pink-muted-rose-obsidian) | Dark / Light | `50tech50style/pink-muted-rose-obsidian` |
 | [Pink Topaz](https://github.com/shaggyfeng/obsidian-Pink-topaz-theme) | Dark / Light | `shaggyfeng/obsidian-Pink-topaz-theme` |
@@ -597,9 +773,9 @@
 | [Poimandres Extended](https://github.com/bastiangx/poimandres.obsidian) | Dark / Light | `bastiangx/poimandres.obsidian` |
 | [Polka](https://github.com/callumhackett/obsidian_polka_theme) | Dark / Light | `callumhackett/obsidian_polka_theme` |
 | [Pomme Notes](https://github.com/mrparalloid/pomme-notes) | Dark / Light | `mrparalloid/pomme-notes` |
+| [Porcelain](https://github.com/shayher5525/obsidian-porcelain) | Dark / Light | `shayher5525/obsidian-porcelain` |
 | [Powered by Lancer](https://github.com/sourtarte/Powered-By-Lancer) | Dark / Light | `sourtarte/Powered-By-Lancer` |
 | [Powered by Lancer - Retouched](https://github.com/cloopy/Powered-by-Lancer---Retouched) | Dark / Light | `cloopy/Powered-by-Lancer---Retouched` |
-| [Praxis](https://github.com/voi-tech/obsidian-praxis) | Dark / Light | `voi-tech/obsidian-praxis` |
 | [Primary](https://github.com/primary-theme/obsidian) | Light / Dark | `primary-theme/obsidian` |
 | [Primary Simplified](https://github.com/voi-tech/obsidian-primary-simplified) | Dark / Light | `voi-tech/obsidian-primary-simplified` |
 | [Prime](https://github.com/rivea0/obsidian-prime) | Dark / Light | `rivea0/obsidian-prime` |
@@ -620,8 +796,10 @@
 
 | Theme | Modes | Repo |
 |-------|-------|------|
-| [Qlean](https://github.com/froq0/Qlean) | Dark / Light | `froq0/Qlean` |
+| [Qlean](https://github.com/0froq/Qlean) | Dark / Light | `0froq/Qlean` |
+| [Qudian](https://github.com/sleepyzip/qudian-obsidian) | Dark | `sleepyzip/qudian-obsidian` |
 | [Quest Journal](https://github.com/jackers228/quest-journal-theme) | Dark / Light | `jackers228/quest-journal-theme` |
+| [Quiet Paper](https://github.com/tom2021-vice/obsidian-theme-quiet-paper) | Dark / Light | `tom2021-vice/obsidian-theme-quiet-paper` |
 | [Quietus](https://github.com/yuanzhixiang/obsidian-theme-quietus) | Dark / Light | `yuanzhixiang/obsidian-theme-quietus` |
 | [Quillcode](https://github.com/theaayushpatel/quillcode) | Dark / Light | `theaayushpatel/quillcode` |
 
@@ -630,7 +808,10 @@
 | Theme | Modes | Repo |
 |-------|-------|------|
 | [Radiance](https://github.com/jabarid/obsidian-radiance) | Dark / Light | `jabarid/obsidian-radiance` |
+| [RaggioProietto](https://github.com/martinopiaggi/raggioproietto) | Dark / Light | `martinopiaggi/raggioproietto` |
+| [Rainveil](https://github.com/the-time-forever/rainveil) | Light | `the-time-forever/rainveil` |
 | [Rationale](https://github.com/davidszp/obsidian-rationale) | Dark / Light | `davidszp/obsidian-rationale` |
+| [Raunak Noir](https://github.com/raunak7888/Raunak-Theme) | Dark / Light | `raunak7888/Raunak-Theme` |
 | [Ravenloft](https://github.com/circkumflexx/obsidian-ravenloft-theme) | Dark / Light | `circkumflexx/obsidian-ravenloft-theme` |
 | [RBR](https://github.com/amdhj22/rbr.obsidian) | Dark | `amdhj22/rbr.obsidian` |
 | [ReadyStack Warm Dark](https://github.com/jmshinhwa/readystack-obsidian-warm-dark) | Dark | `jmshinhwa/readystack-obsidian-warm-dark` |
@@ -639,16 +820,20 @@
 | [Red-Shadow](https://github.com/dkliberty/Red-Shadow) | Dark | `dkliberty/Red-Shadow` |
 | [RedShift - OLED Blue Light Filter](https://github.com/norderan/RedShift-obsidian-theme) | Dark | `norderan/RedShift-obsidian-theme` |
 | [Refined Default](https://github.com/faisaltamanojr/Refined-Default) | Dark / Light | `faisaltamanojr/Refined-Default` |
+| [RelKis](https://github.com/kissabmi/relkis-obsidian-theme) | Dark / Light | `kissabmi/relkis-obsidian-theme` |
+| [Report Writer](https://github.com/crluehmann/report-writer) | Dark / Light | `crluehmann/report-writer` |
 | [Reshi](https://github.com/contrapasso3/Reshi) | Dark / Light | `contrapasso3/Reshi` |
 | [Retro OS](https://github.com/preval85/obsidian-retro-os) | Dark / Light | `preval85/obsidian-retro-os` |
 | [Retro Relay](https://github.com/rahelaq/retro-relay) | Dark / Light | `rahelaq/retro-relay` |
 | [Retro Terminal](https://github.com/meimakes/obsidian-retro-terminal-theme) | Dark / Light | `meimakes/obsidian-retro-terminal-theme` |
+| [Retro TTY](https://github.com/miqueiasklippel/obsidian-theme-retrotty) | Dark / Light | `miqueiasklippel/obsidian-theme-retrotty` |
 | [Retro Windows](https://github.com/codeisconfusing/retro-windows-obsidian) | Dark / Light | `codeisconfusing/retro-windows-obsidian` |
 | [Retroma](https://github.com/emarpiee/Retroma) | Dark / Light | `emarpiee/Retroma` |
 | [RetroNotes](https://github.com/sr-campelo/retronotes) | Dark / Light | `sr-campelo/retronotes` |
 | [RetroOS 98](https://github.com/thepharaohart/Obsidian-RetroOS98) | Dark / Light | `thepharaohart/Obsidian-RetroOS98` |
 | [Reverie](https://github.com/santiyounger/Reverie-Obsidian-Theme) | Dark / Light | `santiyounger/Reverie-Obsidian-Theme` |
 | [Rezin](https://github.com/nicolasghs/Rezin-theme) | Dark | `nicolasghs/Rezin-theme` |
+| [Rho Zero](https://github.com/clowsuzu/rho-zero) | Dark | `clowsuzu/rho-zero` |
 | [Ribbons](https://github.com/ddspog/obsidian-ribbons-theme) | Dark / Light | `ddspog/obsidian-ribbons-theme` |
 | [Rift](https://github.com/rifts-obsidian-laboratory/rift) | Dark / Light | `rifts-obsidian-laboratory/rift` |
 | [Rmaki](https://github.com/luke-rmaki/rmaki-obsidian) | Dark | `luke-rmaki/rmaki-obsidian` |
@@ -667,9 +852,14 @@
 |-------|-------|------|
 | [Sacred Geometry Systems](https://github.com/livastar/sacred-geometry-obsidian-theme) | Dark / Light | `livastar/sacred-geometry-obsidian-theme` |
 | [Sad Machine Druid](https://github.com/halftroll0/Sad-Machine-Druid) | Dark / Light | `halftroll0/Sad-Machine-Druid` |
+| [Saffron Ink](https://github.com/andrwj/obsidian-theme-saffron-ink) | Light | `andrwj/obsidian-theme-saffron-ink` |
 | [Safi](https://github.com/abdulkader-safi/obsidian-safi-theme) | Dark / Light | `abdulkader-safi/obsidian-safi-theme` |
+| [Safi-V2](https://github.com/abdulkader-safi/obsidian-safi-theme-v2) | Dark / Light | `abdulkader-safi/obsidian-safi-theme-v2` |
+| [Sageveil](https://github.com/sageveil/obsidian) | Dark | `sageveil/obsidian` |
+| [Sagewood](https://github.com/sagewood-theme/obsidian) | Dark | `sagewood-theme/obsidian` |
 | [Saint Red Paper](https://github.com/saint0721/saint-red-paper) | Dark / Light | `saint0721/saint-red-paper` |
 | [Sakurajima](https://github.com/daiki48/sakurajima.obsidian) | Dark | `daiki48/sakurajima.obsidian` |
+| [Salamander](https://github.com/jasonpersinger/obsidian-salamander) | Dark / Light | `jasonpersinger/obsidian-salamander` |
 | [SALEM](https://github.com/salemelatar/salem-obsidian-theme) | Dark / Light | `salemelatar/salem-obsidian-theme` |
 | [Sanctum](https://github.com/jdanielmourao/obsidian-sanctum) | Dark / Light | `jdanielmourao/obsidian-sanctum` |
 | [Sanctum reborn](https://github.com/antokeinanen/obsidian-sanctum-reborn) | Dark / Light | `antokeinanen/obsidian-sanctum-reborn` |
@@ -679,54 +869,80 @@
 | [SAzure Glass](https://github.com/sasecurityn/SAzure-Glass) | Dark | `sasecurityn/SAzure-Glass` |
 | [Scanline](https://github.com/vforge/obsidian-scanline) | Dark / Light | `vforge/obsidian-scanline` |
 | [Scriptorium](https://github.com/ouatis/obsidian-scriptorium) | Dark / Light | `ouatis/obsidian-scriptorium` |
-| [Sea Glass](https://github.com/kstew1017/obsidian-sea-glass-theme) | Dark | `kstew1017/obsidian-sea-glass-theme` |
+| [Sea Slug](https://github.com/t-if/sea-slug) | Dark / Light | `t-if/sea-slug` |
 | [Seamless View](https://github.com/gustavosz124/Obsidian-Theme-Seamless-View) | Dark / Light | `gustavosz124/Obsidian-Theme-Seamless-View` |
+| [Seashell](https://github.com/gabrielfrimodig/obsidian-seashell) | Dark | `gabrielfrimodig/obsidian-seashell` |
 | [Sei](https://github.com/iwa/Sei) | Dark / Light | `iwa/Sei` |
+| [Semiotic](https://github.com/1amnotmad/obsidian-semiotic) | Dark / Light | `1amnotmad/obsidian-semiotic` |
 | [Sequoia](https://github.com/michael-andreuzza/sequoia-obsidian) | Dark / Light | `michael-andreuzza/sequoia-obsidian` |
 | [Serendipity](https://github.com/michael-andreuzza/serendipity-obsidian) | Dark / Light | `michael-andreuzza/serendipity-obsidian` |
 | [Serenity](https://github.com/bluemoondragon07/Obsidian-Serenity) | Dark / Light | `bluemoondragon07/Obsidian-Serenity` |
 | [Serif](https://github.com/godlyman-bit/Serif) | Dark / Light | `godlyman-bit/Serif` |
 | [Serika](https://github.com/warrobot10/Serika-for-obsidian) | Dark / Light | `warrobot10/Serika-for-obsidian` |
+| [Settled Ink](https://github.com/liyaomingme/obsidian-settled-ink) | Dark / Light | `liyaomingme/obsidian-settled-ink` |
 | [Shade Sanctuary](https://github.com/elevict/Shade-Sanctuary) | Dark / Light | `elevict/Shade-Sanctuary` |
 | [Shadeflow](https://github.com/artorias305/obsidian-shadeflow) | Dark / Light | `artorias305/obsidian-shadeflow` |
+| [Shades of Purple](https://github.com/eliascotto/shades-of-purple-obsidian) | Dark | `eliascotto/shades-of-purple-obsidian` |
 | [Shiba Inu](https://github.com/faroukx/Obsidian-shiba-inu-theme) | Dark / Light | `faroukx/Obsidian-shiba-inu-theme` |
 | [Shimmering Focus](https://github.com/chrisgrieser/shimmering-focus) | Dark / Light | `chrisgrieser/shimmering-focus` |
 | [Shiqing Guanlan](https://github.com/chuhc/obisidian_qinglv_theme) | Dark / Light | `chuhc/obisidian_qinglv_theme` |
+| [Shrek is Love](https://github.com/andymdh/shrek-is-love) | Dark / Light | `andymdh/shrek-is-love` |
+| [SIL-UI](https://github.com/abdulkader-safi/obsidian-sil-ui-theme) | Dark / Light | `abdulkader-safi/obsidian-sil-ui-theme` |
 | [Silence](https://github.com/adoveil/obsidian-silence-theme) | Dark / Light | `adoveil/obsidian-silence-theme` |
 | [Silver](https://github.com/wn2try/obsidian-theme-silver) | Dark / Light | `wn2try/obsidian-theme-silver` |
+| [Silverglass](https://github.com/davidhurtadoai/silverglass) | Dark / Light | `davidhurtadoai/silverglass` |
 | [Simple](https://github.com/diegoeis/simple-obsidian) | Dark / Light | `diegoeis/simple-obsidian` |
 | [Simplicity](https://github.com/thiews/obsidian-simplicity) | Dark / Light | `thiews/obsidian-simplicity` |
 | [Simply Colorful](https://github.com/lorenzopegorari/SimplyColorful) | Dark / Light | `lorenzopegorari/SimplyColorful` |
+| [Slate](https://github.com/codingjinxx/obsidian-slate-theme) | Dark / Light | `codingjinxx/obsidian-slate-theme` |
 | [Slatewave](https://github.com/kevinlangleyjr/obsidian-slatewave) | Dark | `kevinlangleyjr/obsidian-slatewave` |
 | [Slytherin](https://github.com/matheuszarkov/slytherin) | Dark / Light | `matheuszarkov/slytherin` |
+| [Snowy Eve](https://github.com/mack-yilman/obsidian-snowy-eve) | Dark / Light | `mack-yilman/obsidian-snowy-eve` |
 | [Sodalite](https://github.com/tomzorz/Sodalite) | Dark | `tomzorz/Sodalite` |
 | [Soft Paper](https://github.com/nickmilo/soft-paper) | Dark / Light | `nickmilo/soft-paper` |
 | [Solace](https://github.com/bhavya-dang/solace-obsidian) | Dark / Light | `bhavya-dang/solace-obsidian` |
+| [Solar Gradient](https://github.com/ramenofficialgovpatsy/Solar-Gradient) | Dark / Light | `ramenofficialgovpatsy/Solar-Gradient` |
 | [Solarized](https://github.com/harmtemolder/obsidian-solarized) | Dark / Light | `harmtemolder/obsidian-solarized` |
+| [Solarized Osaka](https://github.com/synaptara/obsidian-solarized-osaka) | Dark / Light | `synaptara/obsidian-solarized-osaka` |
 | [Soli Deo Gloria](https://github.com/godlyman-bit/SoliDeoGloria) | Dark / Light | `godlyman-bit/SoliDeoGloria` |
 | [Soloing](https://github.com/isax785/obsidian-soloing) | Dark / Light | `isax785/obsidian-soloing` |
 | [Soothe](https://github.com/awesomedog/obsidian-soothe) | Dark / Light | `awesomedog/obsidian-soothe` |
 | [Sora](https://github.com/aejkatappaja/sora-obsidian) | Dark | `aejkatappaja/sora-obsidian` |
 | [Space](https://github.com/bhappen/obsidian-space) | Dark | `bhappen/obsidian-space` |
+| [Space to think](https://github.com/guguthecoder/obsidian-space-to-think) | Dark / Light | `guguthecoder/obsidian-space-to-think` |
 | [Sparkling Day](https://github.com/isax785/obsidian-sparkling-day) | Light | `isax785/obsidian-sparkling-day` |
 | [Sparkling Night](https://github.com/isax785/obsidian-sparkling-night) | Dark / Light | `isax785/obsidian-sparkling-night` |
 | [Spectrum Blue](https://github.com/sandmansdreams/Spectrum-Blue) | Dark | `sandmansdreams/Spectrum-Blue` |
 | [SpectrumPlus](https://github.com/anotherlusitano/SpectrumPlus) | Dark | `anotherlusitano/SpectrumPlus` |
+| [SpeedPpuccin](https://github.com/mogpduck/obsidian-SpeedPpuccin) | Dark / Light | `mogpduck/obsidian-SpeedPpuccin` |
 | [Spring](https://github.com/mateushenriquegringo/spring-theme-obsidian) | Dark / Light | `mateushenriquegringo/spring-theme-obsidian` |
+| [Spring Blossom](https://github.com/ramenofficialgovpatsy/Spring-Blossom) | Dark / Light | `ramenofficialgovpatsy/Spring-Blossom` |
 | [Spy Terminal](https://github.com/ichirofukuda/spy-terminal-theme) | Dark | `ichirofukuda/spy-terminal-theme` |
 | [sQdthOne](https://github.com/keithlerner/ObsidianMDsQdthOne) | Dark / Light | `keithlerner/ObsidianMDsQdthOne` |
 | [Srcery](https://github.com/soykindabored/srcery-obsidian) | Dark | `soykindabored/srcery-obsidian` |
 | [Standard Plus](https://github.com/adamkdean/standard-plus-obsidian-theme) | Dark / Light | `adamkdean/standard-plus-obsidian-theme` |
 | [Starlit Abyss](https://github.com/jpcranford/obsidian-theme-StarlitAbyss) | Dark / Light | `jpcranford/obsidian-theme-StarlitAbyss` |
+| [Starship Helm Console](https://github.com/anthonyfitzpatrick/obsidian-theme-lcars) | Dark / Light | `anthonyfitzpatrick/obsidian-theme-lcars` |
+| [Static Aurora](https://github.com/ashotis/aurora-theme) | Dark / Light | `ashotis/aurora-theme` |
 | [steam](https://github.com/artin0r/steam-theme-obsidian) | Dark | `artin0r/steam-theme-obsidian` |
+| [Still](https://github.com/letschips/obsidian-still) | Dark / Light | `letschips/obsidian-still` |
+| [Stillhaven](https://github.com/im3sk/stillhaven-obsidian-theme) | Dark / Light | `im3sk/stillhaven-obsidian-theme` |
+| [Stillmark](https://github.com/yunforge/obsidian-theme-stillmark) | Dark / Light | `yunforge/obsidian-theme-stillmark` |
+| [Storyboard Frames](https://github.com/theluckystrike/notemods-theme-storyboard-frames) | Dark / Light | `theluckystrike/notemods-theme-storyboard-frames` |
 | [Stratus](https://github.com/techr10n/stratus-obsidian-theme) | Dark / Light | `techr10n/stratus-obsidian-theme` |
+| [Strawberry Cloud](https://github.com/n16htb0t/strawberry-cloud) | Dark / Light | `n16htb0t/strawberry-cloud` |
 | [Strict](https://github.com/nikolai2038/strict-obsidian-theme) | Dark | `nikolai2038/strict-obsidian-theme` |
 | [Subtlegold](https://github.com/kartik-karz/subtlegold-obsidian) | Dark / Light | `kartik-karz/subtlegold-obsidian` |
 | [Suddha](https://github.com/dxcore35/Suddha-theme) | Dark / Light | `dxcore35/Suddha-theme` |
 | [Sugar](https://github.com/chooliu/obsidian-sugar-theme) | Dark / Light | `chooliu/obsidian-sugar-theme` |
+| [Suliworld](https://github.com/sulistef/obsidian-suliworld) | Dark / Light | `sulistef/obsidian-suliworld` |
+| [Sumi](https://github.com/frworks805/obsidian-sumi) | Dark / Light | `frworks805/obsidian-sumi` |
 | [Sunbather](https://github.com/babidisrc/obsidian-sunbather) | Dark / Light | `babidisrc/obsidian-sunbather` |
 | [Sunflex](https://github.com/sunxuecong/Sunflex) | Dark / Light | `sunxuecong/Sunflex` |
 | [Superflat](https://github.com/foreverwelearn/obsidian-superflat) | Dark / Light | `foreverwelearn/obsidian-superflat` |
+| [Swak](https://github.com/swak-inc/obsidian-theme-swak) | Dark / Light | `swak-inc/obsidian-theme-swak` |
+| [Synapse](https://github.com/curioussynapse/obsidian-theme-synapse) | Dark / Light | `curioussynapse/obsidian-theme-synapse` |
+| [Synkk Sketch Book](https://github.com/tawandajosephmutsena/synkk-sketch-book) | Dark / Light | `tawandajosephmutsena/synkk-sketch-book` |
 | [SynthWave](https://github.com/marcoluzi/obsidian-synthwave) | Dark | `marcoluzi/obsidian-synthwave` |
 | [Synthwave '84](https://github.com/g2jose/synthwave-84-obsidian-theme) | Dark | `g2jose/synthwave-84-obsidian-theme` |
 | [Synthwave Pro](https://github.com/robertobissanti/obsidian-synthwave-pro) | Dark / Light | `robertobissanti/obsidian-synthwave-pro` |
@@ -735,14 +951,20 @@
 
 | Theme | Modes | Repo |
 |-------|-------|------|
+| [Tahoe](https://github.com/krishnanefx/obsidian-tahoe-theme) | Dark / Light | `krishnanefx/obsidian-tahoe-theme` |
+| [Tangerine Neue](https://github.com/mattbirchler/tangerine-neue-obsidian) | Dark / Light | `mattbirchler/tangerine-neue-obsidian` |
 | [tbdl](https://github.com/ledokter/obsidian-tbdl-theme) | Light | `ledokter/obsidian-tbdl-theme` |
+| [Tea and Coffee](https://github.com/richardqnguyen/obsidian-tea-and-coffee) | Dark / Light | `richardqnguyen/obsidian-tea-and-coffee` |
 | [Tech001](https://github.com/volodinroman/obsidian-tech001-theme) | Dark / Light | `volodinroman/obsidian-tech001-theme` |
+| [Techwear](https://github.com/dlsdgj/Techwear) | Dark / Light | `dlsdgj/Techwear` |
+| [Tela](https://github.com/rbartoli/obsidian-tela-theme) | Dark / Light | `rbartoli/obsidian-tela-theme` |
 | [termina](https://github.com/xevrion/obsidian-termina) | Dark / Light | `xevrion/obsidian-termina` |
 | [Terminal](https://github.com/zcysxy/Obsidian-Terminal-Theme) | Dark | `zcysxy/Obsidian-Terminal-Theme` |
-| [Terminal Workbench](https://github.com/real-fruit-snacks/terminal-workbench) | Dark / Light | `real-fruit-snacks/terminal-workbench` |
+| [Terminal Notes](https://github.com/theluckystrike/notemods-theme-terminal-notes) | Dark / Light | `theluckystrike/notemods-theme-terminal-notes` |
 | [Terminal2K](https://github.com/isax785/Terminal2K) | Dark / Light | `isax785/Terminal2K` |
 | [TerraFlow](https://github.com/dubefab/obsidian-TerraFlow) | Dark / Light | `dubefab/obsidian-TerraFlow` |
 | [Theme-That-Shall-Not-Be-Named](https://github.com/choptv/Obsidian-Theme-That-Shall-Not-Be-Named) | Dark | `choptv/Obsidian-Theme-That-Shall-Not-Be-Named` |
+| [TheWonderSpace](https://github.com/qays3/TheWonderSpace) | Dark / Light | `qays3/TheWonderSpace` |
 | [Things](https://github.com/colineckert/obsidian-things) | Light / Dark | `colineckert/obsidian-things` |
 | [Things 3](https://github.com/mrparalloid/obsidian-things) | Dark / Light | `mrparalloid/obsidian-things` |
 | [Third Brain Neon](https://github.com/narcosia/third-brain-neon) | Dark | `narcosia/third-brain-neon` |
@@ -750,21 +972,26 @@
 | [Tokyo Night](https://github.com/tcmmichaelb139/obsidian-tokyonight) | Dark / Light | `tcmmichaelb139/obsidian-tokyonight` |
 | [Tokyo Night Simple](https://github.com/danarnold/tokyonight-simple) | Dark | `danarnold/tokyonight-simple` |
 | [Tokyo Night Storm](https://github.com/arozx/obsidian_tokyo-night-storm) | Dark | `arozx/obsidian_tokyo-night-storm` |
+| [Tokyo Rain](https://github.com/ashotis/tokyo-rain) | Dark / Light | `ashotis/tokyo-rain` |
 | [tokyo-terminal-obsd](https://github.com/tslst/tokyo-terminal-obsd) | Dark | `tslst/tokyo-terminal-obsd` |
 | [Tom's Theme](https://github.com/tomkaygames/Tom-s-Theme) | Dark / Light | `tomkaygames/Tom-s-Theme` |
 | [Tomorrow](https://github.com/deudz/obsidian-tomorrow-theme) | Dark | `deudz/obsidian-tomorrow-theme` |
 | [Tomorrow Night Blue](https://github.com/packetsherpa/obsidian-tomorrow-night-blue) | Dark | `packetsherpa/obsidian-tomorrow-night-blue` |
 | [Tomorrow Night Bright](https://github.com/gbraad-obsidian/obsidian-tomorrow-night-bright-theme) | Dark | `gbraad-obsidian/obsidian-tomorrow-night-bright-theme` |
+| [Totonio](https://github.com/guruvlk/totonio-obsidian-theme) | Dark / Light | `guruvlk/totonio-obsidian-theme` |
 | [Trace Labs](https://github.com/humandecoded/Trace-Labs-Obsidian-Theme) | Dark | `humandecoded/Trace-Labs-Obsidian-Theme` |
 | [Traffic Lights](https://github.com/elliotboyd/obsidian-traffic-lights) | Dark / Light | `elliotboyd/obsidian-traffic-lights` |
 | [Trailmark](https://github.com/joshua-walls/trailmark-theme) | Dark / Light | `joshua-walls/trailmark-theme` |
 | [Transient](https://github.com/georgeazma/Transient) | Dark | `georgeazma/Transient` |
 | [Transparent](https://github.com/oczko24/Obsidian-transparent) | Dark / Light | `oczko24/Obsidian-transparent` |
 | [True Black](https://github.com/kraasch/true-black) | Dark | `kraasch/true-black` |
+| [Tsukuyomi](https://github.com/kuguya-ai-app-develop/tsukuyomi-Obsidian-theme) | Dark / Light | `kuguya-ai-app-develop/tsukuyomi-Obsidian-theme` |
 | [TTRPG - Rathgar Gold](https://github.com/chrisairbrown-del/TTRPG-Rathgar-Gold-Theme) | Dark / Light | `chrisairbrown-del/TTRPG-Rathgar-Gold-Theme` |
 | [Tufte](https://github.com/pleiadesm/TufteObsidian) | Dark / Light | `pleiadesm/TufteObsidian` |
 | [Typewriter](https://github.com/crashmoney/obsidian-typewriter) | Dark / Light | `crashmoney/obsidian-typewriter` |
+| [Typewriter-Vin](https://github.com/varunsai85/Typewriter-Vin) | Dark / Light | `varunsai85/Typewriter-Vin` |
 | [Typomagical](https://github.com/hungsu/typomagical-obsidian) | Light / Dark | `hungsu/typomagical-obsidian` |
+| [Typora-Spring](https://github.com/jysume/obsidian-typora-spring-theme) | Light | `jysume/obsidian-typora-spring-theme` |
 | [Typora-Vue](https://github.com/zekunc/Obsidian-Typora-Vue-Theme) | Dark / Light | `zekunc/Obsidian-Typora-Vue-Theme` |
 | [Tyrone Neon](https://github.com/tyronejosee/tyrone-neon) | Dark / Light | `tyronejosee/tyrone-neon` |
 
@@ -774,12 +1001,14 @@
 |-------|-------|------|
 | [Ukiyo](https://github.com/technerium/obsidian-ukiyo) | Dark / Light | `technerium/obsidian-ukiyo` |
 | [Ultra Lobster](https://github.com/7368697661/Ultra-Lobster) | Dark / Light | `7368697661/Ultra-Lobster` |
+| [Ultra Minimal](https://github.com/tcrouzet/obsidian-ultra-minimal) | Dark / Light | `tcrouzet/obsidian-ultra-minimal` |
 | [Umbra](https://github.com/kebl3541/Obsidian-Umbra) | Dark | `kebl3541/Obsidian-Umbra` |
+| [Undefined](https://github.com/evan-guyot/obsidian-undefined) | Dark / Light | `evan-guyot/obsidian-undefined` |
 | [Underwater](https://github.com/seniblue/Underwater) | Dark / Light | `seniblue/Underwater` |
 | [Universitario](https://github.com/wulflo/obsidian-3Sumaq) | Dark / Light | `wulflo/obsidian-3Sumaq` |
 | [unsent-letters](https://github.com/antonabbac/unsent-letters) | Dark | `antonabbac/unsent-letters` |
 | [Ursa](https://github.com/obsidian-ezs/obsidian-ursa) | Dark / Light | `obsidian-ezs/obsidian-ursa` |
-| [Utility Materials](https://github.com/alexh/umi-obsidian-theme) | Dark / Light | `alexh/umi-obsidian-theme` |
+| [Utility Materials](https://github.com/utility-materials/umi-obsidian-theme) | Dark / Light | `utility-materials/umi-obsidian-theme` |
 
 ## V
 
@@ -790,6 +1019,7 @@
 | [Vanilla Palettes](https://github.com/gnrlleclerc/Vanilla-Theme-Palettes) | Light / Dark | `gnrlleclerc/Vanilla-Theme-Palettes` |
 | [Vaporwave Void](https://github.com/mattycm1193-sys/Vaporwave_Void-Dark_Mode-Obsidian_Theme) | Dark | `mattycm1193-sys/Vaporwave_Void-Dark_Mode-Obsidian_Theme` |
 | [Vauxhall](https://github.com/cyanvoxel/vauxhall-obsidian) | Dark / Light | `cyanvoxel/vauxhall-obsidian` |
+| [Vega](https://github.com/jvaclavovic/obsidian-vega-theme) | Dark / Light | `jvaclavovic/obsidian-vega-theme` |
 | [Vellum](https://github.com/rohith-am/Obsidian-Vellum) | Dark / Light | `rohith-am/Obsidian-Vellum` |
 | [Velocity](https://github.com/gonzalo-d-sales/obsidian-velocity) | Dark / Light | `gonzalo-d-sales/obsidian-velocity` |
 | [Velvet-Moon](https://github.com/quinta0/Velvet-Moon) | Dark | `quinta0/Velvet-Moon` |
@@ -800,16 +1030,18 @@
 | [Vesper Golden](https://github.com/everydayapps/vesper-golden) | Dark / Light | `everydayapps/vesper-golden` |
 | [Vesper-Sandstorm](https://github.com/xeome/obsidian-vesper-sandstorm) | Dark / Light | `xeome/obsidian-vesper-sandstorm` |
 | [Vibrant](https://github.com/jameslemony/obsidian_vibrant) | Dark | `jameslemony/obsidian_vibrant` |
-| [Vicious](https://github.com/zaheralmajed/vicious-theme-obsidian) | Light / Dark | `zaheralmajed/vicious-theme-obsidian` |
 | [Vignelli](https://github.com/wesellis/vignelli-obsidian-theme) | Dark / Light | `wesellis/vignelli-obsidian-theme` |
+| [Vintage Computer](https://github.com/pakcli/Vintage-Computer) | Dark / Light | `pakcli/Vintage-Computer` |
 | [Violet Evening](https://github.com/aitadev/Violet-Evening-for-Obsidian) | Dark | `aitadev/Violet-Evening-for-Obsidian` |
 | [Virgo](https://github.com/loveminimal/obsidian-theme-virgo) | Dark / Light | `loveminimal/obsidian-theme-virgo` |
 | [Viridian](https://github.com/mulfok/obsidian-viridian) | Dark / Light | `mulfok/obsidian-viridian` |
 | [Vision](https://github.com/mukhil-g/obsidian-vision) | Dark / Light | `mukhil-g/obsidian-vision` |
 | [Vitela](https://github.com/nicolascereijo/obsidian-vitela) | Dark / Light | `nicolascereijo/obsidian-vitela` |
 | [Void](https://github.com/0crazy-0/obsidian-void) | Dark | `0crazy-0/obsidian-void` |
+| [Void Teal](https://github.com/arhamakhtaralam/obsidian-void-teal) | Dark / Light | `arhamakhtaralam/obsidian-void-teal` |
 | [Volcanic Vein Lava](https://github.com/cosmicseafox/Volcanic-Vein-Lava) | Dark / Light | `cosmicseafox/Volcanic-Vein-Lava` |
 | [Vortex](https://github.com/abhimangs/obsidian-vortex) | Dark / Light | `abhimangs/obsidian-vortex` |
+| [VS Code](https://github.com/cxw91/obsidian-vscode-theme) | Dark / Light | `cxw91/obsidian-vscode-theme` |
 | [VSCode 2026](https://github.com/yangsonhung/obsidian-vscode-2026) | Dark / Light | `yangsonhung/obsidian-vscode-2026` |
 | [VSCode Dark Modern](https://github.com/leozague/obsidian-vscode-dark-plus) | Dark | `leozague/obsidian-vscode-dark-plus` |
 | [VSCode Light Modern](https://github.com/yangsonhung/obsidian-vscode-light-modern) | Light | `yangsonhung/obsidian-vscode-light-modern` |
@@ -826,15 +1058,21 @@
 | [Warm Springs](https://github.com/brtmax/obsidian-warm-springs) | Dark / Light | `brtmax/obsidian-warm-springs` |
 | [WarmRice](https://github.com/jmj-eo/obsidian-warmrice) | Light | `jmj-eo/obsidian-warmrice` |
 | [Wasp](https://github.com/santiyounger/Wasp-Obsidian-Theme) | Dark / Light | `santiyounger/Wasp-Obsidian-Theme` |
+| [Waypoint Atlas](https://github.com/theluckystrike/notemods-theme-waypoint-atlas) | Dark / Light | `theluckystrike/notemods-theme-waypoint-atlas` |
 | [Weave Surface](https://github.com/zhuzhige123/obsidian-weave-surface) | Dark / Light | `zhuzhige123/obsidian-weave-surface` |
 | [WeiYa](https://github.com/weiya9511/weiya-obsidian-theme) | Dark / Light | `weiya9511/weiya-obsidian-theme` |
+| [Whim](https://github.com/misoren/whim) | Dark | `misoren/whim` |
 | [Wide View](https://github.com/jkraccoon/obsidian-wide-view) | Dark / Light | `jkraccoon/obsidian-wide-view` |
+| [Wikidian](https://github.com/mz-wang/wikidian) | Dark / Light | `mz-wang/wikidian` |
 | [Wikipedia](https://github.com/bluemoondragon07/Wikipedia-Theme) | Dark / Light | `bluemoondragon07/Wikipedia-Theme` |
 | [Willemstad](https://github.com/tingmelvin/willemstad-x) | Dark / Light | `tingmelvin/willemstad-x` |
+| [Winter Cafe](https://github.com/ramenofficialgovpatsy/Winter-Cafe) | Dark / Light | `ramenofficialgovpatsy/Winter-Cafe` |
 | [Winter Spices](https://github.com/incantatem2/Obsidian-winter-spices) | Light | `incantatem2/Obsidian-winter-spices` |
 | [Wolai](https://github.com/liicos/obsidian-wolai-theme) | Dark / Light | `liicos/obsidian-wolai-theme` |
 | [Wombat](https://github.com/hush-hush/obsidian_wombat) | Dark | `hush-hush/obsidian_wombat` |
+| [Woodtype](https://github.com/abdallahaladl/obsidian-woodtype) | Dark / Light | `abdallahaladl/obsidian-woodtype` |
 | [word_2019](https://github.com/sir-marc-the-scribe/Obsidian-theme---word-office-2019) | Dark / Light | `sir-marc-the-scribe/Obsidian-theme---word-office-2019` |
+| [Writing Room](https://github.com/beppepic/obsidian-writing-room) | Dark / Light | `beppepic/obsidian-writing-room` |
 | [WY Console](https://github.com/satchelmouth/Obsidian-Theme-WYConsole) | Dark / Light | `satchelmouth/Obsidian-Theme-WYConsole` |
 | [Wyrd](https://github.com/curio-heart/obsidian-wyrd) | Dark / Light | `curio-heart/obsidian-wyrd` |
 
@@ -842,6 +1080,7 @@
 
 | Theme | Modes | Repo |
 |-------|-------|------|
+| [Xeno Clinic](https://github.com/numbpill3d/xeno-clinic) | Dark / Light | `numbpill3d/xeno-clinic` |
 | [Xscriptor](https://github.com/xscriptor/obsidian) | Dark / Light | `xscriptor/obsidian` |
 
 ## Y
@@ -849,19 +1088,23 @@
 | Theme | Modes | Repo |
 |-------|-------|------|
 | [Yin and Yang](https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme) | Dark / Light | `chetachiezikeuzor/Yin-and-Yang-Theme` |
+| [Yosuke Glass](https://github.com/yosukedesign/yosuke-glass) | Dark / Light | `yosukedesign/yosuke-glass` |
 | [Yue](https://github.com/gixoxyz/YueObsidian) | Light / Dark | `gixoxyz/YueObsidian` |
 
 ## Z
 
 | Theme | Modes | Repo |
 |-------|-------|------|
+| [Zacess](https://github.com/zacesshq/obsidian-theme) | Dark / Light | `zacesshq/obsidian-theme` |
 | [Zario](https://github.com/nazarioricardo/zario-obsidian) | Light / Dark | `nazarioricardo/zario-obsidian` |
 | [Zen](https://github.com/laughmaker/Zen) | Dark / Light | `laughmaker/Zen` |
 | [Zen Forest](https://github.com/hobbysoftwaredeveloper/Zen-Forest) | Dark / Light | `hobbysoftwaredeveloper/Zen-Forest` |
 | [Zenburn](https://github.com/danyim/obsidian-zenburn) | Dark | `danyim/obsidian-zenburn` |
+| [Zencode](https://github.com/tmdautov/obsidian-zencode-theme) | Dark / Light | `tmdautov/obsidian-zencode-theme` |
 | [Zenith](https://github.com/carnalmatrix/obsidian-mantle-zenith) | Dark / Light | `carnalmatrix/obsidian-mantle-zenith` |
+| [Zeraphim](https://github.com/zeraphim/obsidian-theme) | Dark / Light | `zeraphim/obsidian-theme` |
 | [Zocean](https://github.com/maniarasan-zuper/obsidian-zocean) | Dark / Light | `maniarasan-zuper/obsidian-zocean` |
 
 ---
 
-*Index generated 2026-08-29. 717 themes from `obsidianmd/obsidian-releases`. Re-sync via `tools/curation_audit.py`.*
+*Index generated 2026-11-01. 960 themes from `obsidianmd/obsidian-releases`. Re-sync via `tools/curation_audit.py`.*
